@@ -1,0 +1,61 @@
+version: "3.1"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: feel sick 1
+  steps:
+    - intent: greet
+    - action: utter_greet
+    - or:
+      - intent: mood_sick
+      - intent: start_diagnosis
+    - action: utter_mood_sick
+
+- story: stop describing symptoms
+  steps:
+  - intent: describe_symptoms
+  - action: action_collect_symptoms
+  - intent: deny
+  - action: action_give_diagnosis
+  - intent: give_thanks
+  - action: utter_happy
+
+- story: get_explanation_treatments
+  steps:
+    - intent: give_explanation
+    - action: action_give_explanation
+    - intent: give_treatments
+    - action: action_give_treatments
+    - intent: give_thanks
+    - action: utter_happy
+
+- story: find_hospitals
+  steps:
+    - intent: find_hospitals
+    - action: utter_ask_location
+    - checkpoint: ask_location
+
+- story: find_hospitals_current_location
+  steps:
+    - checkpoint: ask_location
+    - intent: use_current_location
+    - action: action_find_hospitals_current_location
+    - intent: give_thanks
+    - action: utter_give_thanks
+
+- story: find_hospitals_another_location
+  steps:
+    - checkpoint: ask_location
+    - intent: use_another_location
+    - action: utter_give_location
+    - intent: give_location
+    - action: action_find_hospitals
+    - intent: give_thanks
+    - action: utter_give_thanks

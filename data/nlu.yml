@@ -1,0 +1,217 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hello!
+    - good morning
+    - good evening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - good bye!
+    - see you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: mood_sick
+  examples: |
+    - I am feeling sick
+    - i don't feel well
+    - I think I am sick
+    - i have some symptoms that I want you to check
+    - i am not feeling too well
+    - i am not feeling good
+
+- intent: start_diagnosis
+  examples: |
+    - I want to check some symptoms
+    - Can you help me diagnose my symptoms?
+    - I need help with some symptoms
+    - i have some symptoms that i want you to check
+
+- intent: describe_symptoms
+  examples: |
+    - I have been experiencing cough, diarrhea and continuous sneezing for a while
+    - I have a cough, fever and I think I might also have sinus pressure
+    - My symptoms are dizziness, throat irritation and also back pain
+    - I am struggling with some fever, a cough and sometimes runny nose
+    - I have been dealing with symptoms like fever, abdominal pain and vomiting
+    - I also have diarrhea, nausea and fever
+    - I also have diarrhea and sneezing
+    - I might also have diarrhea
+    - throat irritation
+    - sneezing
+    - headache and sneezing
+    - coryza
+    - throat irritation, cough and pain
+    - nausea, flatulence
+    - swelled lymph nodes
+    - skin rash, acne or pimples
+    - skin dryness, skin swelling, abnormal appearing of skin
+    - shortness of breath and coughing up sputum
+    - difficulty breathing, sharp chest pain and ear pain
+    - redness in ear
+    - diminished hearing, pulling at ears
+    - painful sinuses, facial pain
+    - depressive or psychotic symptoms, depression
+    - difficulty speaking, disturbance of memory
+    - irregular appearing scalp and hostile behaviour
+    - allergic reaction, side pain, regurgitation
+    - eye redness and lacrimation
+    - pain in eye, itchiness of eye
+    - suprapubic pain
+    - frequent urination, involuntary urination
+    - symptoms of the bladder
+    - peripheral edema and lip swelling
+    - vomiting, dizziness
+    - throat swelling
+    - chest tightness, increased heart rate
+    - weight gain, too little hair
+    - anxiety and nervousness
+    - rectal bleeding, insomnia
+    - abnormal involuntary movements
+
+- intent: give_explanation
+  examples: |
+    - What is diabetes?
+    - What does idiopathic painful menstruation mean?
+    - Can you explain what common cold means?
+    - Explain what bronchitis is
+    - Can you tell me what irritable bowel disease is
+    - Tell me about psoriasis
+    - Can you explain what urinary tract infection to me
+
+- intent: give_treatments
+  examples: |
+    - How can i treat diabetes?
+    - What are some treatments for common cold?
+    - Give me some treatments for ulcerative colitis
+    - How do i treat irritable bowel syndrome
+    - How do i treat the flu?
+    - What are recommended treatments for a urinary tract infection?
+    - Can you recommend some treatments for strep throat
+    - I need treatments for pneumonia
+    - Give me some treatments for eczema
+
+- intent: find_hospitals
+  examples: |
+    - Can you help me find a hospital near me?
+    - can you find hospitals near me?
+    - help me find hospitals near me
+    - i want to see hospitals near me
+    - i think i want to go to a hospital
+    - i think i want to to a chekup. Can you help me find a hospital?
+    - i want to go find a hospital for a checkup. Can you help me find one?
+
+- intent: use_current_location
+  examples: |
+    - yes i want to use my location
+    - yes just use my current location
+    - i would like to use my location
+    - use my location
+    - my current location
+
+- intent: use_another_location
+  examples: |
+    - search somewhere else
+    - i want to search the hospital somewhere else
+    - i want to use another location
+    - use another location
+    - i do not want to use the current location
+    - i don't want to use the current location
+
+- intent: give_location
+  examples: |
+    - My address is str. seliste nr. 16, alba iulia
+    - My address is Str. Seliste nr. 16, Alba Iulia
+    - str. seliste nr. 16, alba iulia
+    - Str. Seliste nr. 16, Alba Iulia
+    - str. Mihail Kogalniceanu nr. 1, Cluj Napoca
+    - my location is str. Mihail Kogalniceanu nr. 1, Cluj Napoca
+    - location is Calea Dorobantilor nr. 95, sibiu
+    - my location is Aleea Lalelelor nr. 4F, iasi
+
+- intent: give_thanks
+  examples: |
+    - thank you!
+    - Thank you!
+    - thanks
+    - Thank you I appreciate your help
+    - ok thanks
+    - ok thank you

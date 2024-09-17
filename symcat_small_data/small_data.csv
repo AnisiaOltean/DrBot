@@ -1,0 +1,922 @@
+disease,symptoms,age_class,gender
+Contact dermatitis,"Skin rash, Itching of skin, Abnormal appearing skin",2,1
+Contact dermatitis,"Skin rash, Acne or pimples",4,0
+Contact dermatitis,"Skin rash, Itching of skin, Skin lesion",6,0
+Contact dermatitis,"Skin rash, Skin dryness or roughness, Allergic reaction, Acne or pimples",4,1
+Contact dermatitis,"Skin rash, Itching of skin, Acne or pimples",1,0
+Contact dermatitis,"Skin rash, Itching of skin, Abnormal appearing skin, Skin lesion",0,0
+Contact dermatitis,"Skin rash, Itching of skin, Abnormal appearing skin, Acne or pimples, Swollen eye",3,1
+Contact dermatitis,"Skin rash, Itching of skin",5,0
+Contact dermatitis,"Skin rash, Itching of skin, Skin dryness or roughness",0,0
+Contact dermatitis,"Skin rash, Itching of skin, Skin swelling",2,1
+Contact dermatitis,"Skin rash, Itching of skin, Swollen eye",1,0
+Contact dermatitis,"Skin rash, Skin dryness or roughness",1,1
+Contact dermatitis,"Skin rash, Itching of skin, Skin moles",1,1
+Contact dermatitis,"Skin rash, Itching of skin, Abnormal appearing skin, Allergic reaction, Skin swelling",2,0
+Contact dermatitis,"Abnormal appearing skin, Skin lesion",1,0
+Contact dermatitis,"Skin rash, Abnormal appearing skin",1,1
+Contact dermatitis,"Skin rash, Itching of skin, Skin dryness or roughness, Diaper rash",1,0
+Contact dermatitis,"Skin rash, Itching of skin, Abnormal appearing skin, Skin lesion, Skin dryness or roughness",0,0
+Contact dermatitis,"Skin rash, Itching of skin, Skin swelling, Skin irritation, Diaper rash",1,0
+Contact dermatitis,"Skin rash, Itching of skin, Skin dryness or roughness, Allergic reaction, Skin irritation",1,1
+Contact dermatitis,"Skin rash, Abnormal appearing skin, Allergic reaction, Acne or pimples",2,1
+Contact dermatitis,"Itching of skin, Skin dryness or roughness",2,1
+Contact dermatitis,"Skin rash, Skin lesion",6,0
+Acute bronchitis,"Cough, Nasal congestion, Fever, Sore throat, Sharp chest pain, Coughing up sputum, Congestion in chest, Headache",6,0
+Acute bronchitis,"Cough, Shortness of breath, Coryza, Coughing up sputum",4,0
+Acute bronchitis,"Cough, Nasal congestion, Fever, Shortness of breath, Coryza, Coughing up sputum, Congestion in chest, Difficulty breathing, Wheezing",6,0
+Acute bronchitis,"Cough, Nasal congestion, Fever, Shortness of breath, Congestion in chest, Headache",4,0
+Acute bronchitis,"Cough, Fever, Sore throat, Shortness of breath, Coryza, Coughing up sputum, Headache, Difficulty breathing",4,1
+Acute bronchitis,"Cough, Nasal congestion, Sore throat, Shortness of breath, Coryza, Coughing up sputum, Congestion in chest, Difficulty breathing",0,1
+Acute bronchitis,"Cough, Shortness of breath, Difficulty breathing, Wheezing",3,1
+Acute bronchitis,"Cough, Sore throat, Coryza, Coughing up sputum",0,0
+Acute bronchitis,"Cough, Nasal congestion, Fever, Shortness of breath, Difficulty breathing",0,1
+Acute bronchitis,"Cough, Nasal congestion, Shortness of breath, Sharp chest pain",4,1
+Acute bronchitis,"Cough, Nasal congestion, Fever, Shortness of breath, Coryza, Coughing up sputum",1,1
+Acute bronchitis,"Cough, Nasal congestion, Fever, Coryza, Sharp chest pain, Headache",3,1
+Acute bronchitis,"Cough, Nasal congestion, Sore throat, Shortness of breath, Coryza, Coughing up sputum, Headache, Difficulty breathing",1,1
+Acute bronchitis,"Cough, Nasal congestion, Fever, Sore throat, Coryza",5,0
+Acute bronchitis,"Cough, Nasal congestion, Shortness of breath",0,0
+Acute bronchitis,"Nasal congestion, Fever, Sore throat, Shortness of breath, Coryza, Sharp chest pain, Congestion in chest, Headache",3,0
+Acute bronchitis,"Nasal congestion, Shortness of breath, Coughing up sputum, Congestion in chest, Difficulty breathing",5,1
+Acute bronchitis,"Cough, Nasal congestion, Fever, Shortness of breath, Coryza, Sharp chest pain",3,1
+Acute bronchitis,"Cough, Sore throat, Shortness of breath, Sharp chest pain, Difficulty breathing",4,1
+Acute bronchitis,"Cough, Nasal congestion, Fever, Sore throat, Shortness of breath, Coryza, Sharp chest pain, Congestion in chest, Headache, Wheezing",4,1
+Acute bronchitis,"Cough, Nasal congestion, Sore throat, Shortness of breath, Coughing up sputum, Difficulty breathing, Wheezing",5,1
+Acute bronchitis,"Cough, Fever, Sore throat, Shortness of breath",5,0
+Acute bronchitis,"Cough, Fever, Sore throat, Shortness of breath, Coryza, Sharp chest pain",5,1
+Acute bronchitis,"Cough, Fever, Coryza, Coughing up sputum, Difficulty breathing, Wheezing",1,1
+Acute bronchitis,"Cough, Nasal congestion, Fever, Shortness of breath, Coughing up sputum, Headache, Difficulty breathing",1,1
+Acute bronchitis,"Cough, Fever, Coughing up sputum, Congestion in chest, Headache, Difficulty breathing, Wheezing",4,0
+Acute bronchitis,"Cough, Sore throat, Shortness of breath, Sharp chest pain, Difficulty breathing, Wheezing",3,1
+Acute bronchitis,"Cough, Fever, Sharp chest pain",1,1
+Acute bronchitis,"Cough, Shortness of breath, Sharp chest pain",1,0
+Acute bronchitis,"Cough, Nasal congestion, Sore throat, Shortness of breath, Coughing up sputum, Wheezing",2,1
+Acute otitis media,"Ear pain, Fever, Cough, Nasal congestion, Redness in ear, Diminished hearing, Plugged feeling in ear",0,0
+Acute otitis media,"Ear pain, Fever, Redness in ear, Fluid in ear",0,0
+Acute otitis media,"Ear pain, Fever, Cough, Nasal congestion, Redness in ear, Fluid in ear, Sore throat",1,1
+Acute otitis media,"Ear pain, Fever, Nasal congestion",6,0
+Acute otitis media,"Ear pain, Fever, Sore throat, Coryza, Pulling at ears",1,0
+Acute otitis media,"Ear pain, Cough, Nasal congestion, Coryza, Pulling at ears",2,1
+Acute otitis media,"Ear pain, Cough, Nasal congestion, Coryza, Vomiting",1,0
+Acute otitis media,"Fever, Cough",1,0
+Acute otitis media,"Nasal congestion, Sore throat, Pulling at ears",1,0
+Acute otitis media,"Fever, Cough, Nasal congestion, Redness in ear, Fluid in ear, Pulling at ears",0,1
+Acute otitis media,"Ear pain, Fever, Vomiting, Plugged feeling in ear",1,1
+Acute otitis media,"Ear pain, Cough, Fluid in ear, Sore throat, Pulling at ears",1,0
+Acute otitis media,"Ear pain, Fever, Cough, Nasal congestion, Vomiting, Diminished hearing",1,0
+Acute otitis media,"Ear pain, Fever, Nasal congestion, Redness in ear, Fluid in ear, Pulling at ears, Diminished hearing",1,0
+Acute otitis media,"Ear pain, Fever, Cough, Nasal congestion, Fluid in ear, Sore throat, Vomiting",0,0
+Acute otitis media,"Ear pain, Fever, Cough, Nasal congestion, Fluid in ear, Coryza",0,0
+Acute otitis media,"Ear pain, Cough, Sore throat",0,0
+Acute otitis media,"Ear pain, Fever, Nasal congestion, Redness in ear, Pulling at ears, Vomiting, Plugged feeling in ear",0,1
+Acute otitis media,"Ear pain, Cough, Nasal congestion, Redness in ear, Fluid in ear, Sore throat, Pulling at ears",1,1
+Acute otitis media,"Ear pain, Fever, Cough, Coryza, Pulling at ears",1,1
+Acute otitis media,"Ear pain, Cough, Redness in ear, Fluid in ear, Sore throat, Pulling at ears, Plugged feeling in ear",4,0
+Acute otitis media,"Ear pain, Fever, Fluid in ear, Pulling at ears",1,0
+Acute otitis media,"Ear pain, Cough, Nasal congestion, Sore throat, Coryza, Vomiting",2,1
+Acute otitis media,"Ear pain, Fever, Cough, Fluid in ear, Sore throat, Coryza",1,0
+Acute otitis media,"Ear pain, Nasal congestion, Redness in ear, Coryza, Vomiting",1,1
+Acute otitis media,"Ear pain, Cough, Fluid in ear, Sore throat",1,0
+Acute otitis media,"Ear pain, Fever, Cough, Diminished hearing",1,0
+Acute otitis media,"Ear pain, Fever, Cough, Redness in ear, Vomiting",1,0
+Acute sinusitis,"Nasal congestion, Sore throat, Headache, Coryza, Ear pain, Sinus congestion, Coughing up sputum",5,1
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Headache, Coryza",0,1
+Acute sinusitis,"Nasal congestion, Sore throat, Coryza, Painful sinuses, Facial pain, Coughing up sputum",4,0
+Acute sinusitis,"Cough, Sore throat, Headache, Fever, Sinus congestion, Painful sinuses",2,0
+Acute sinusitis,"Cough, Nasal congestion, Frontal headache, Fever, Sinus congestion",2,0
+Acute sinusitis,"Nasal congestion, Sore throat, Headache, Fever, Painful sinuses",6,0
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Headache, Fever, Sinus congestion, Painful sinuses, Coughing up sputum",3,1
+Acute sinusitis,"Frontal headache, Sinus congestion",3,1
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Frontal headache, Fever, Ear pain",3,0
+Acute sinusitis,"Cough, Sore throat, Headache, Fever, Facial pain",0,1
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Frontal headache, Fever, Sinus congestion, Painful sinuses, Facial pain",3,0
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Frontal headache, Coryza, Sinus congestion",4,1
+Acute sinusitis,"Cough, Sore throat, Headache, Frontal headache, Coryza, Fever, Facial pain",5,0
+Acute sinusitis,"Nasal congestion, Sore throat, Headache, Frontal headache, Coryza, Ear pain, Painful sinuses",7,0
+Acute sinusitis,"Headache, Frontal headache, Coryza, Fever, Ear pain, Coughing up sputum",7,1
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Frontal headache, Sinus congestion, Facial pain, Coughing up sputum",4,0
+Acute sinusitis,"Cough, Nasal congestion, Headache, Frontal headache",3,1
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Coryza, Fever, Painful sinuses",3,0
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Headache, Ear pain, Sinus congestion",5,1
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Headache, Coryza, Fever, Painful sinuses",2,0
+Acute sinusitis,"Nasal congestion, Headache, Sinus congestion, Coughing up sputum",1,1
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Frontal headache, Coryza, Fever, Ear pain, Sinus congestion",2,1
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Headache, Coryza, Sinus congestion",1,0
+Acute sinusitis,"Nasal congestion, Sinus congestion, Painful sinuses, Facial pain",3,0
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Frontal headache, Ear pain, Painful sinuses",6,0
+Acute sinusitis,"Cough, Sore throat, Frontal headache, Coryza, Fever, Ear pain, Coughing up sputum",1,1
+Acute sinusitis,"Nasal congestion, Sore throat, Ear pain, Facial pain",6,1
+Acute sinusitis,"Cough, Nasal congestion, Sore throat, Coryza, Facial pain",3,1
+Acute sinusitis,"Cough, Nasal congestion, Coryza, Fever",3,1
+Alzheimer disease,"Disturbance of memory, Depressive or psychotic symptoms, Delusions or hallucinations",7,1
+Alzheimer disease,"Disturbance of memory, Depression",7,1
+Alzheimer disease,"Disturbance of memory, Depressive or psychotic symptoms, Depression",6,0
+Alzheimer disease,"Disturbance of memory, Depressive or psychotic symptoms",6,1
+Alzheimer disease,"Depressive or psychotic symptoms, Depression, Difficulty speaking",7,1
+Alzheimer disease,"Disturbance of memory, Depression, Hostile behavior",7,0
+Alzheimer disease,"Depression, Hostile behavior",7,1
+Alzheimer disease,"Disturbance of memory, Depressive or psychotic symptoms, Hostile behavior",6,1
+Alzheimer disease,"Disturbance of memory, Depressive or psychotic symptoms, Problems with movement",7,0
+Alzheimer disease,"Depressive or psychotic symptoms, Depression",7,1
+Alzheimer disease,"Disturbance of memory, Hostile behavior",7,0
+Alzheimer disease,"Disturbance of memory, Depression, Irregular appearing scalp",7,1
+Alzheimer disease,"Disturbance of memory, Depressive or psychotic symptoms, Depression, Hostile behavior",7,0
+Alzheimer disease,"Depression, Difficulty speaking",7,1
+Alzheimer disease,"Depression, Hostile behavior, Difficulty speaking",7,1
+Alzheimer disease,"Disturbance of memory, Depressive or psychotic symptoms, Fears and phobias",7,1
+Alzheimer disease,"Disturbance of memory, Depressive or psychotic symptoms, Difficulty speaking",7,0
+Alzheimer disease,"Disturbance of memory, Restlessness",7,0
+Appendicitis,"Sharp abdominal pain, Vomiting, Burning abdominal pain, Side pain, Diarrhea",4,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Nausea, Burning abdominal pain, Side pain",2,1
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Vomiting, Fever",2,1
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Vomiting, Nausea, Burning abdominal pain, Upper abdominal pain, Decreased appetite",2,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Vomiting, Nausea",7,1
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Nausea, Fever",5,0
+Appendicitis,"Sharp abdominal pain, Nausea, Side pain",7,1
+Appendicitis,"Sharp abdominal pain, Fever, Side pain, Upper abdominal pain",2,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Chills",3,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Decreased appetite",4,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain",1,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Vomiting, Diarrhea",4,1
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Vomiting, Nausea, Fever, Side pain",5,1
+Appendicitis,"Sharp abdominal pain, Vomiting, Nausea, Fever, Chills, Stomach bloating",4,1
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Vomiting, Nausea, Fever, Burning abdominal pain, Diarrhea",6,1
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Nausea, Fever, Diarrhea",6,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Vomiting, Nausea, Burning abdominal pain",2,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Vomiting, Nausea, Burning abdominal pain, Side pain",2,1
+Appendicitis,"Lower abdominal pain, Vomiting, Nausea, Fever, Diarrhea",3,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Fever, Burning abdominal pain, Stomach bloating",3,1
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Vomiting, Nausea, Fever, Burning abdominal pain, Decreased appetite",3,0
+Appendicitis,"Sharp abdominal pain, Vomiting",2,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Vomiting, Nausea, Fever, Diarrhea",1,1
+Appendicitis,"Lower abdominal pain, Vomiting, Nausea, Diarrhea",4,0
+Appendicitis,"Sharp abdominal pain, Lower abdominal pain, Nausea, Burning abdominal pain, Decreased appetite",5,0
+Appendicitis,"Sharp abdominal pain, Nausea, Fever, Chills",2,0
+Asthma,"Wheezing, Nasal congestion, Allergic reaction",6,0
+Asthma,"Cough, Shortness of breath, Difficulty breathing, Sharp chest pain",4,1
+Asthma,"Wheezing, Difficulty breathing, Coryza, Congestion in chest",2,1
+Asthma,"Shortness of breath, Wheezing, Nasal congestion",1,1
+Asthma,"Cough, Shortness of breath, Difficulty breathing, Fever",1,0
+Asthma,"Cough, Shortness of breath, Wheezing, Fever, Allergic reaction",1,1
+Asthma,"Cough, Shortness of breath, Wheezing, Difficulty breathing, Sharp chest pain",1,1
+Asthma,"Shortness of breath, Wheezing, Difficulty breathing",6,0
+Asthma,"Cough, Shortness of breath, Difficulty breathing, Coryza",6,0
+Asthma,"Cough, Shortness of breath",4,0
+Asthma,"Cough, Wheezing, Nasal congestion",0,1
+Asthma,"Cough, Nasal congestion",2,1
+Asthma,"Shortness of breath, Wheezing, Fever, Coryza",2,1
+Asthma,"Cough, Shortness of breath, Nasal congestion, Fever, Coryza",1,0
+Asthma,"Cough, Fever, Sharp chest pain, Allergic reaction",6,0
+Asthma,"Cough, Shortness of breath, Difficulty breathing, Nasal congestion, Fever, Coughing up sputum",1,1
+Asthma,"Shortness of breath, Wheezing, Fever, Sharp chest pain",2,0
+Asthma,"Cough, Shortness of breath, Allergic reaction",3,0
+Asthma,"Shortness of breath, Wheezing, Difficulty breathing, Coryza",2,1
+Asthma,"Shortness of breath, Wheezing, Fever, Congestion in chest",5,1
+Asthma,"Cough, Shortness of breath, Nasal congestion, Coryza",1,1
+Asthma,"Wheezing, Nasal congestion",2,0
+Asthma,"Wheezing, Nasal congestion, Fever, Coryza",1,1
+Asthma,"Cough, Wheezing, Difficulty breathing",2,1
+Asthma,"Shortness of breath, Nasal congestion, Fever",6,0
+Asthma,"Cough, Difficulty breathing, Nasal congestion",1,1
+Cholecystitis,"Upper abdominal pain, Nausea, Burning abdominal pain",4,1
+Cholecystitis,"Upper abdominal pain, Sharp chest pain, Back pain",4,0
+Cholecystitis,"Sharp abdominal pain, Sharp chest pain",4,0
+Cholecystitis,"Upper abdominal pain, Nausea, Side pain, Burning abdominal pain, Stomach bloating",7,0
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Nausea, Vomiting, Sharp chest pain",5,0
+Cholecystitis,"Upper abdominal pain, Nausea, Vomiting, Side pain, Lower body pain, Regurgitation",5,1
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Vomiting, Burning abdominal pain",7,0
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Vomiting, Sharp chest pain",4,0
+Cholecystitis,"Upper abdominal pain, Nausea, Vomiting, Sharp chest pain",4,1
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Nausea",6,1
+Cholecystitis,"Upper abdominal pain, Nausea, Vomiting, Back pain, Side pain",5,0
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Nausea, Sharp chest pain",6,1
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Nausea, Sharp chest pain, Burning abdominal pain",4,1
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Vomiting, Sharp chest pain, Burning abdominal pain",6,1
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Side pain",6,0
+Cholecystitis,"Upper abdominal pain, Nausea, Regurgitation",5,1
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Vomiting, Back pain, Lower body pain",4,1
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Vomiting, Regurgitation",6,1
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Vomiting, Sharp chest pain, Back pain, Burning abdominal pain",6,0
+Cholecystitis,"Sharp abdominal pain, Nausea, Vomiting, Lower body pain, Regurgitation",4,0
+Cholecystitis,"Upper abdominal pain, Nausea, Vomiting, Burning abdominal pain",7,1
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Nausea, Vomiting, Side pain",5,1
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Nausea, Vomiting",5,1
+Cholecystitis,"Upper abdominal pain, Vomiting, Burning abdominal pain",7,1
+Cholecystitis,"Sharp abdominal pain, Back pain",4,1
+Cholecystitis,"Upper abdominal pain, Nausea, Back pain, Burning abdominal pain",6,1
+Cholecystitis,"Upper abdominal pain, Nausea, Vomiting, Sharp chest pain, Side pain, Regurgitation",7,0
+Cholecystitis,"Sharp abdominal pain, Upper abdominal pain, Nausea, Burning abdominal pain",5,1
+Common cold,"Cough, Sore throat, Fever, Nasal congestion, Ear pain, Vomiting",1,1
+Common cold,"Cough, Sore throat, Fever, Nasal congestion, Coryza, Ear pain, Headache, Vomiting, Wheezing",1,0
+Common cold,"Cough, Sore throat, Fever, Nasal congestion, Ear pain",0,1
+Common cold,"Cough, Sore throat, Nasal congestion, Ear pain",0,0
+Common cold,"Cough, Sore throat, Fever, Ear pain",2,1
+Common cold,"Sore throat, Nasal congestion, Ear pain, Wheezing",1,0
+Common cold,"Cough, Sore throat, Fever, Coryza, Vomiting",3,0
+Common cold,"Cough, Sore throat, Fever, Nasal congestion, Ear pain, Flu-like syndrome",1,0
+Common cold,"Cough, Sore throat, Nasal congestion, Headache, Wheezing, Flu-like syndrome",0,0
+Common cold,"Cough, Sore throat, Fever, Headache, Vomiting, Wheezing, Congestion in chest",4,0
+Common cold,"Cough, Sore throat, Fever, Nasal congestion, Headache",1,1
+Common cold,"Cough, Sore throat, Ear pain, Wheezing, Congestion in chest",0,0
+Common cold,"Cough, Sore throat, Fever, Nasal congestion",1,0
+Common cold,"Sore throat, Fever, Nasal congestion, Vomiting",2,0
+Common cold,"Cough, Sore throat, Fever, Nasal congestion, Coryza, Ear pain, Headache, Vomiting",5,1
+Common cold,"Cough, Sore throat",0,1
+Common cold,"Cough, Fever, Nasal congestion, Coryza, Vomiting",1,1
+Common cold,"Sore throat, Fever, Nasal congestion, Ear pain, Headache",0,1
+Common cold,"Nasal congestion, Coryza, Ear pain, Headache",0,0
+Common cold,"Sore throat, Fever, Nasal congestion, Headache, Vomiting",2,0
+Common cold,"Cough, Fever, Nasal congestion, Ear pain, Headache",0,1
+Common cold,"Cough, Sore throat, Fever, Nasal congestion, Headache, Vomiting",2,0
+Common cold,"Cough, Sore throat, Fever, Nasal congestion, Ear pain, Headache",0,1
+Common cold,"Cough, Sore throat, Fever, Nasal congestion, Ear pain, Vomiting, Flu-like syndrome",2,1
+Common cold,"Fever, Nasal congestion, Coryza, Headache",1,0
+Common cold,"Cough, Sore throat, Fever, Nasal congestion, Coryza, Vomiting, Wheezing",3,1
+Conjunctivitis,"Eye redness, Nasal congestion, Fever, Swollen eye, Lacrimation",0,0
+Conjunctivitis,"Eye redness, Pain in eye, Cough, Nasal congestion, Fever, Lacrimation",0,1
+Conjunctivitis,"Eye redness, Fever, Sore throat",0,0
+Conjunctivitis,"Pain in eye, Cough, Fever, Itchiness of eye, White discharge from eye, Coryza",1,1
+Conjunctivitis,"Eye redness, Pain in eye, Nasal congestion, Itchiness of eye, Lacrimation, Symptoms of eye, Sore throat",1,0
+Conjunctivitis,"Eye redness, Pain in eye, Fever, Itchiness of eye, Symptoms of eye",2,0
+Conjunctivitis,"Eye redness, Pain in eye, Nasal congestion, Swollen eye, Coryza",1,0
+Conjunctivitis,"Eye redness, Pain in eye, Cough, Fever, Sore throat",2,0
+Conjunctivitis,"Eye redness, Fever, Coryza",1,1
+Conjunctivitis,"Eye redness, Pain in eye, Cough, Fever, Itchiness of eye, Symptoms of eye",1,0
+Conjunctivitis,"Eye redness, Swollen eye",1,0
+Conjunctivitis,"Eye redness, Cough, Sore throat",1,1
+Conjunctivitis,"Eye redness, Pain in eye, Cough, Nasal congestion, Itchiness of eye, Swollen eye, White discharge from eye, Lacrimation",2,1
+Conjunctivitis,"Cough, Nasal congestion, Symptoms of eye, Sore throat, Coryza",0,1
+Conjunctivitis,"Eye redness, Pain in eye, Cough, Nasal congestion, Fever, Swollen eye",2,1
+Conjunctivitis,"Eye redness, Pain in eye, Cough, Itchiness of eye, White discharge from eye",0,0
+Conjunctivitis,"Eye redness, Cough, Nasal congestion, Fever, White discharge from eye, Symptoms of eye",2,0
+Conjunctivitis,"Eye redness, Nasal congestion, Itchiness of eye, Lacrimation, Coryza",0,1
+Conjunctivitis,"Eye redness, Pain in eye, Cough, Fever, Itchiness of eye, Swollen eye, White discharge from eye",0,1
+Conjunctivitis,"Eye redness, Itchiness of eye",0,0
+Conjunctivitis,"Eye redness, Pain in eye, Itchiness of eye, Sore throat",0,0
+Conjunctivitis,"Eye redness, Pain in eye, Fever, Swollen eye, Sore throat",0,1
+Conjunctivitis,"Eye redness, Fever, Itchiness of eye, Swollen eye, Symptoms of eye",0,0
+Conjunctivitis,"Eye redness, Fever, Swollen eye, Lacrimation, Coryza",3,0
+Conjunctivitis,"Eye redness, Cough, Nasal congestion, Fever",4,1
+Conjunctivitis,"Eye redness, Pain in eye, Cough, Itchiness of eye, Lacrimation",4,0
+Conjunctivitis,"Eye redness, Nasal congestion, Symptoms of eye, Coryza",1,1
+Conjunctivitis,"Eye redness, Cough, Itchiness of eye, Coryza",2,1
+Conjunctivitis,"Eye redness, Pain in eye, Cough, Nasal congestion, Itchiness of eye, Lacrimation, Sore throat",0,1
+Cystitis,"Painful urination, Suprapubic pain, Blood in urine, Sharp abdominal pain, Back pain",3,0
+Cystitis,"Painful urination, Frequent urination",1,1
+Cystitis,"Painful urination, Suprapubic pain, Frequent urination, Retention of urine",6,0
+Cystitis,"Painful urination, Frequent urination, Symptoms of bladder",6,1
+Cystitis,"Painful urination, Suprapubic pain, Sharp abdominal pain, Retention of urine, Symptoms of bladder",3,1
+Cystitis,"Painful urination, Suprapubic pain, Frequent urination, Back pain, Retention of urine, Pelvic pain",5,1
+Cystitis,"Painful urination, Suprapubic pain, Frequent urination, Blood in urine, Sharp abdominal pain, Retention of urine",2,1
+Cystitis,"Painful urination, Suprapubic pain, Blood in urine, Pelvic pain",3,1
+Cystitis,"Painful urination, Suprapubic pain, Sharp abdominal pain, Back pain, Side pain, Lower abdominal pain",7,1
+Cystitis,"Painful urination, Frequent urination, Sharp abdominal pain, Involuntary urination",3,1
+Cystitis,"Painful urination, Suprapubic pain, Frequent urination, Sharp abdominal pain",3,1
+Cystitis,"Painful urination, Suprapubic pain, Frequent urination, Symptoms of bladder",4,1
+Cystitis,"Painful urination, Suprapubic pain, Frequent urination, Sharp abdominal pain, Retention of urine, Side pain",7,0
+Cystitis,"Painful urination, Frequent urination, Sharp abdominal pain, Retention of urine, Symptoms of bladder",7,1
+Cystitis,"Painful urination, Frequent urination, Blood in urine, Retention of urine, Side pain",3,1
+Cystitis,"Suprapubic pain, Blood in urine, Side pain, Involuntary urination",7,1
+Cystitis,"Frequent urination, Sharp abdominal pain, Side pain",5,1
+Cystitis,"Painful urination, Frequent urination, Blood in urine, Back pain",4,1
+Cystitis,"Painful urination, Suprapubic pain, Blood in urine, Side pain, Pelvic pain, Involuntary urination",2,1
+Cystitis,"Back pain, Involuntary urination",7,1
+Cystitis,"Painful urination, Back pain, Retention of urine, Side pain, Lower abdominal pain",6,1
+Cystitis,"Painful urination, Suprapubic pain, Frequent urination, Sharp abdominal pain, Back pain, Pelvic pain, Involuntary urination",4,1
+Cystitis,"Suprapubic pain, Blood in urine, Side pain, Lower abdominal pain",1,1
+Cystitis,"Suprapubic pain, Frequent urination, Blood in urine, Sharp abdominal pain, Lower abdominal pain, Symptoms of bladder",7,1
+Cystitis,"Painful urination, Frequent urination, Sharp abdominal pain, Lower abdominal pain",4,1
+Cystitis,"Painful urination, Frequent urination, Blood in urine, Sharp abdominal pain, Lower abdominal pain",6,1
+Cystitis,"Painful urination, Suprapubic pain, Frequent urination, Sharp abdominal pain, Side pain, Involuntary urination, Symptoms of bladder",4,1
+Cystitis,"Painful urination, Blood in urine, Back pain, Lower abdominal pain",3,1
+Drug reaction,"Skin rash, Itching of skin, Peripheral edema, Nausea, Headache, Throat swelling",1,0
+Drug reaction,"Skin rash, Itching of skin, Lip swelling, Nausea, Headache",4,0
+Drug reaction,"Skin rash, Allergic reaction, Abnormal appearing skin",0,0
+Drug reaction,"Dizziness, Peripheral edema",5,0
+Drug reaction,"Skin rash, Peripheral edema, Lip swelling, Nausea, Shortness of breath",2,1
+Drug reaction,"Skin rash, Allergic reaction, Itching of skin, Dizziness, Peripheral edema",3,1
+Drug reaction,"Skin rash, Itching of skin, Dizziness, Peripheral edema, Lip swelling, Nausea, Shortness of breath",5,0
+Drug reaction,"Skin rash, Itching of skin, Peripheral edema, Abnormal appearing skin, Throat swelling",1,0
+Drug reaction,"Skin rash, Itching of skin, Dizziness, Nausea, Throat swelling",4,1
+Drug reaction,"Allergic reaction, Itching of skin, Peripheral edema, Headache",3,0
+Drug reaction,"Skin rash, Itching of skin, Nausea, Abnormal appearing skin, Throat swelling",6,0
+Drug reaction,"Skin rash, Itching of skin, Dizziness, Peripheral edema, Lip swelling, Nausea, Throat swelling",7,1
+Drug reaction,"Skin rash, Allergic reaction, Dizziness, Nausea, Shortness of breath, Headache, Throat swelling",4,1
+Drug reaction,"Skin rash, Allergic reaction, Itching of skin, Dizziness, Lip swelling, Throat swelling",5,0
+Drug reaction,"Skin rash, Itching of skin, Dizziness, Peripheral edema, Nausea, Headache, Vomiting",7,0
+Drug reaction,"Skin rash, Peripheral edema, Nausea, Throat swelling",5,1
+Drug reaction,"Allergic reaction, Dizziness, Peripheral edema, Lip swelling, Headache",4,0
+Drug reaction,"Allergic reaction, Itching of skin, Shortness of breath, Headache, Vomiting",6,1
+Drug reaction,"Skin rash, Allergic reaction, Dizziness, Headache, Vomiting, Abnormal appearing skin",7,1
+Drug reaction,"Skin rash, Allergic reaction, Dizziness, Abnormal appearing skin",3,0
+Drug reaction,"Itching of skin, Peripheral edema, Headache, Vomiting",4,1
+Drug reaction,"Allergic reaction, Dizziness, Lip swelling",7,1
+Drug reaction,"Skin rash, Nausea",7,1
+Drug reaction,"Peripheral edema, Nausea, Headache, Vomiting, Throat swelling",2,0
+Drug reaction,"Skin rash, Allergic reaction, Lip swelling",4,0
+Drug reaction,"Skin rash, Allergic reaction, Dizziness, Lip swelling, Headache",6,0
+Drug reaction,"Dizziness, Vomiting",3,1
+Drug reaction,"Itching of skin, Dizziness, Lip swelling, Nausea",4,1
+Drug reaction,"Skin rash, Allergic reaction, Peripheral edema, Lip swelling, Shortness of breath",2,1
+Drug reaction,"Skin rash, Allergic reaction, Itching of skin",4,0
+Gastritis,"Vomiting, Nausea, Burning abdominal pain, Upper abdominal pain, Fever",3,1
+Gastritis,"Sharp abdominal pain, Vomiting, Nausea, Burning abdominal pain, Upper abdominal pain, Diarrhea",1,1
+Gastritis,"Sharp abdominal pain, Vomiting, Sharp chest pain, Upper abdominal pain, Diarrhea, Fever, Heartburn",5,0
+Gastritis,"Sharp abdominal pain, Vomiting, Nausea, Diarrhea",6,0
+Gastritis,"Sharp abdominal pain, Nausea, Burning abdominal pain, Sharp chest pain, Upper abdominal pain, Diarrhea, Fever, Vomiting blood",6,0
+Gastritis,"Sharp abdominal pain, Vomiting, Nausea",5,1
+Gastritis,"Sharp abdominal pain, Vomiting, Burning abdominal pain, Diarrhea, Vomiting blood",6,1
+Gastritis,"Vomiting, Nausea, Sharp chest pain, Upper abdominal pain, Diarrhea, Headache",1,0
+Gastritis,"Sharp abdominal pain, Vomiting, Nausea, Burning abdominal pain, Sharp chest pain, Vomiting blood",3,0
+Gastritis,"Sharp abdominal pain, Vomiting, Nausea, Burning abdominal pain, Sharp chest pain, Diarrhea, Fever, Headache",3,1
+Gastritis,"Sharp abdominal pain, Nausea, Sharp chest pain, Upper abdominal pain, Heartburn",2,1
+Gastritis,"Sharp abdominal pain, Vomiting, Diarrhea, Headache",5,0
+Gastritis,"Vomiting, Headache, Regurgitation",2,1
+Gastritis,"Sharp abdominal pain, Vomiting, Nausea, Burning abdominal pain, Sharp chest pain, Upper abdominal pain, Vomiting blood",3,1
+Gastritis,"Sharp abdominal pain, Vomiting, Nausea, Burning abdominal pain, Sharp chest pain, Upper abdominal pain",6,1
+Gastritis,"Sharp abdominal pain, Vomiting, Sharp chest pain, Upper abdominal pain, Diarrhea",7,0
+Gastritis,"Sharp abdominal pain, Nausea, Burning abdominal pain, Fever",7,1
+Gastritis,"Sharp abdominal pain, Vomiting, Upper abdominal pain, Diarrhea",3,1
+Gastritis,"Sharp abdominal pain, Vomiting, Sharp chest pain, Headache, Regurgitation",4,0
+Gastritis,"Vomiting, Nausea, Burning abdominal pain, Diarrhea",4,0
+Gastritis,"Sharp abdominal pain, Vomiting, Sharp chest pain, Headache, Heartburn, Vomiting blood",1,1
+Gastritis,"Sharp abdominal pain, Nausea, Burning abdominal pain, Diarrhea, Heartburn",7,0
+Gastritis,"Sharp abdominal pain, Vomiting, Nausea, Burning abdominal pain, Fever, Regurgitation",1,1
+Gastritis,"Sharp abdominal pain, Vomiting, Burning abdominal pain, Diarrhea, Vomiting blood, Regurgitation",1,0
+Gastritis,"Vomiting, Burning abdominal pain, Sharp chest pain, Upper abdominal pain, Diarrhea, Fever",5,0
+Gastritis,"Vomiting, Nausea, Burning abdominal pain, Sharp chest pain, Diarrhea, Heartburn",2,0
+Gastritis,"Sharp abdominal pain, Nausea, Burning abdominal pain, Upper abdominal pain, Regurgitation",3,1
+Gastritis,"Sharp abdominal pain, Vomiting, Nausea, Burning abdominal pain, Regurgitation",0,0
+Gastritis,"Sharp abdominal pain, Vomiting, Upper abdominal pain, Headache",4,1
+Heart attack,"Sharp chest pain, Chest tightness, Increased heart rate",7,1
+Heart attack,"Sharp chest pain, Shortness of breath, Chest tightness, Nausea",7,0
+Heart attack,"Sharp chest pain, Shortness of breath, Fainting",7,1
+Heart attack,"Sharp chest pain, Heartburn, Irregular heartbeat",7,0
+Heart attack,"Sharp chest pain, Shortness of breath, Arm pain, Fainting",7,0
+Heart attack,"Sharp chest pain, Burning chest pain",6,0
+Heart attack,"Sharp chest pain, Nausea",6,0
+Heart attack,"Sharp chest pain, Shortness of breath, Arm pain, Sweating",6,1
+Heart attack,"Sharp chest pain, Shortness of breath, Chest tightness, Nausea, Sweating",5,0
+Heart attack,"Sharp chest pain, Shortness of breath, Chest tightness, Nausea, Sweating, Lower body pain",6,0
+Heart attack,"Sharp chest pain, Chest tightness",6,1
+Heart attack,"Sharp chest pain, Nausea, Heartburn",7,0
+Heart attack,"Sharp chest pain, Shortness of breath, Chest tightness",7,1
+Heart attack,"Shortness of breath, Chest tightness",6,0
+Heart attack,"Sharp chest pain, Shortness of breath",6,0
+Heart attack,"Sharp chest pain, Shortness of breath, Chest tightness, Heartburn",4,0
+Heart attack,"Sharp chest pain, Lower body pain, Heartburn",6,0
+Heart attack,"Sharp chest pain, Shortness of breath, Chest tightness, Nausea, Arm pain",7,1
+Heart attack,"Sharp chest pain, Shortness of breath, Irregular heartbeat",7,1
+Heart attack,"Sharp chest pain, Shortness of breath, Chest tightness, Arm pain",7,1
+Heart attack,"Sharp chest pain, Sweating, Irregular heartbeat",5,0
+Hypothyroidism,"Weight gain, Muscle pain",4,0
+Hypothyroidism,"Fatigue, Muscle pain, Wrist swelling",6,1
+Hypothyroidism,"Fatigue, Too little hair, Hot flashes",7,1
+Hypothyroidism,"Leg cramps or spasms, Feeling cold",6,1
+Hypothyroidism,"Fatigue, Weight gain",5,1
+Hypothyroidism,"Fatigue, Leg cramps or spasms",4,1
+Hypothyroidism,"Fatigue, Too little hair",6,1
+Hypothyroidism,"Weight gain, Feeling cold",6,1
+Hypothyroidism,"Fatigue, Muscle pain",6,1
+Hypothyroidism,"Fatigue, Hot flashes",6,1
+Hypothyroidism,"Fatigue, Wrist swelling",7,0
+Hypothyroidism,"Too little hair, Feeling cold",7,1
+Hypothyroidism,"Weight gain, Too little hair, Muscle pain",6,1
+Hypothyroidism,"Fatigue, Feeling cold",7,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea",5,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Burning abdominal pain, Lower abdominal pain, Rectal bleeding",2,0
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Nausea",7,1
+Irritable bowel syndrome,"Sharp abdominal pain, Anxiety and nervousness, Upper abdominal pain",0,0
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Burning abdominal pain, Anxiety and nervousness, Rectal bleeding",4,0
+Irritable bowel syndrome,"Sharp abdominal pain, Burning abdominal pain, Nausea, Rectal bleeding, Flatulence",4,1
+Irritable bowel syndrome,"Anxiety and nervousness, Upper abdominal pain",5,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Burning abdominal pain, Flatulence",4,1
+Irritable bowel syndrome,"Burning abdominal pain, Nausea, Lower abdominal pain, Upper abdominal pain, Insomnia",4,1
+Irritable bowel syndrome,"Sharp abdominal pain, Constipation, Nausea, Lower abdominal pain, Upper abdominal pain, Flatulence",7,1
+Irritable bowel syndrome,"Burning abdominal pain, Regurgitation, Insomnia, Flatulence",4,0
+Irritable bowel syndrome,"Diarrhea, Nausea, Anxiety and nervousness",4,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Lower abdominal pain, Upper abdominal pain",6,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Burning abdominal pain, Constipation, Regurgitation",4,1
+Irritable bowel syndrome,"Sharp abdominal pain, Burning abdominal pain",7,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Constipation, Nausea, Insomnia",2,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Constipation",6,1
+Irritable bowel syndrome,"Diarrhea, Burning abdominal pain, Anxiety and nervousness, Upper abdominal pain",7,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Constipation, Nausea",6,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Lower abdominal pain, Upper abdominal pain, Flatulence",4,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Burning abdominal pain, Lower abdominal pain, Upper abdominal pain, Flatulence",7,1
+Irritable bowel syndrome,"Diarrhea, Constipation, Anxiety and nervousness",6,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Constipation, Nausea, Anxiety and nervousness, Lower abdominal pain, Upper abdominal pain, Flatulence",6,1
+Irritable bowel syndrome,"Sharp abdominal pain, Burning abdominal pain, Constipation, Insomnia",6,1
+Irritable bowel syndrome,"Sharp abdominal pain, Diarrhea, Flatulence",2,1
+Irritable bowel syndrome,"Sharp abdominal pain, Burning abdominal pain, Insomnia",7,0
+Irritable bowel syndrome,"Constipation, Nausea",4,0
+Irritable bowel syndrome,"Sharp abdominal pain, Insomnia",7,1
+Irritable bowel syndrome,"Diarrhea, Burning abdominal pain, Lower abdominal pain",6,1
+Panic disorder,"Anxiety and nervousness, Depression, Shortness of breath, Sharp chest pain, Insomnia, Palpitations",3,1
+Panic disorder,"Depression, Shortness of breath",7,1
+Panic disorder,"Anxiety and nervousness, Depression",4,1
+Panic disorder,"Anxiety and nervousness, Insomnia",5,1
+Panic disorder,"Anxiety and nervousness, Depression, Shortness of breath",4,1
+Panic disorder,"Anxiety and nervousness, Depression, Shortness of breath, Depressive or psychotic symptoms, Insomnia, Chest tightness",4,1
+Panic disorder,"Anxiety and nervousness, Shortness of breath, Depressive or psychotic symptoms, Chest tightness, Breathing fast",5,1
+Panic disorder,"Anxiety and nervousness, Depression, Shortness of breath, Depressive or psychotic symptoms, Palpitations",3,1
+Panic disorder,"Anxiety and nervousness, Shortness of breath, Depressive or psychotic symptoms, Dizziness, Breathing fast",3,0
+Panic disorder,"Anxiety and nervousness, Depressive or psychotic symptoms, Dizziness, Abnormal involuntary movements, Breathing fast",3,0
+Panic disorder,"Anxiety and nervousness, Depression, Irregular heartbeat",5,1
+Panic disorder,"Anxiety and nervousness, Depression, Palpitations",4,1
+Panic disorder,"Anxiety and nervousness, Depression, Depressive or psychotic symptoms, Chest tightness, Palpitations",4,1
+Panic disorder,"Anxiety and nervousness, Depression, Insomnia",4,1
+Panic disorder,"Anxiety and nervousness, Shortness of breath, Sharp chest pain, Palpitations",3,1
+Panic disorder,"Sharp chest pain, Insomnia, Chest tightness",7,1
+Panic disorder,"Anxiety and nervousness, Depression, Sharp chest pain, Insomnia, Breathing fast",4,1
+Panic disorder,"Anxiety and nervousness, Depressive or psychotic symptoms",4,1
+Panic disorder,"Anxiety and nervousness, Depression, Shortness of breath, Depressive or psychotic symptoms, Sharp chest pain, Insomnia, Chest tightness, Breathing fast",3,0
+Panic disorder,"Anxiety and nervousness, Depression, Shortness of breath, Sharp chest pain, Irregular heartbeat",5,1
+Panic disorder,"Anxiety and nervousness, Dizziness, Palpitations, Irregular heartbeat",3,1
+Panic disorder,"Anxiety and nervousness, Depression, Depressive or psychotic symptoms, Dizziness",4,1
+Panic disorder,"Anxiety and nervousness, Depression, Shortness of breath, Depressive or psychotic symptoms, Insomnia, Irregular heartbeat",5,0
+Panic disorder,"Anxiety and nervousness, Depression, Sharp chest pain, Abnormal involuntary movements, Chest tightness",3,0
+Panic disorder,"Anxiety and nervousness, Depression, Insomnia, Irregular heartbeat",2,1
+Panic disorder,"Anxiety and nervousness, Shortness of breath, Dizziness",4,0
+Panic disorder,"Anxiety and nervousness, Depression, Depressive or psychotic symptoms, Dizziness, Abnormal involuntary movements",6,1
+Panic disorder,"Anxiety and nervousness, Depression, Dizziness, Insomnia",5,1
+Psoriasis,"Skin rash, Itching of skin, Skin lesion, Irregular appearing scalp, Joint pain, Skin swelling, Acne or pimples",4,0
+Psoriasis,"Skin rash, Itching of skin, Skin dryness or roughness, Skin lesion",6,0
+Psoriasis,"Skin dryness or roughness, Skin lesion, Abnormal appearing skin",5,0
+Psoriasis,"Itching of skin, Skin dryness or roughness, Skin lesion",6,0
+Psoriasis,"Skin dryness or roughness, Abnormal appearing skin, Joint pain",6,1
+Psoriasis,"Skin rash, Itching of skin, Itchy scalp, Acne or pimples",5,0
+Psoriasis,"Skin rash, Skin growth",5,0
+Psoriasis,"Skin rash, Itching of skin, Skin dryness or roughness, Abnormal appearing skin",6,0
+Psoriasis,"Skin rash, Itching of skin, Skin dryness or roughness, Abnormal appearing skin, Itchy scalp, Skin swelling, Acne or pimples",5,0
+Psoriasis,"Itching of skin, Irregular appearing scalp, Joint pain",1,0
+Psoriasis,"Skin rash, Itching of skin, Abnormal appearing skin, Joint pain, Skin moles, Skin swelling",7,0
+Psoriasis,"Skin rash, Skin dryness or roughness, Abnormal appearing skin",5,1
+Psoriasis,"Itching of skin, Abnormal appearing skin, Irregular appearing scalp",6,1
+Psoriasis,"Skin rash, Itching of skin, Itchy scalp",5,1
+Psoriasis,"Itching of skin, Skin dryness or roughness, Abnormal appearing skin, Skin moles",6,1
+Psoriasis,"Skin rash, Skin lesion, Joint pain",4,0
+Psoriasis,"Skin lesion, Abnormal appearing skin, Joint pain",4,1
+Psoriasis,"Itching of skin, Skin dryness or roughness, Irregular appearing scalp",6,0
+Psoriasis,"Skin dryness or roughness, Irregular appearing scalp",5,0
+Psoriasis,"Skin dryness or roughness, Abnormal appearing skin, Acne or pimples",5,0
+Psoriasis,"Skin lesion, Irregular appearing scalp",6,0
+Strep throat,"Sore throat, Fever, Headache",5,0
+Strep throat,"Sore throat, Fever, Cough, Nasal congestion, Ache all over, Chills",2,1
+Strep throat,"Sore throat, Fever, Cough, Headache, Ear pain, Nasal congestion, Skin rash, Difficulty in swallowing",2,1
+Strep throat,"Sore throat, Cough, Headache, Vomiting, Ear pain, Chills",2,1
+Strep throat,"Sore throat, Fever, Cough, Nasal congestion, Skin rash",1,0
+Strep throat,"Sore throat, Headache",2,1
+Strep throat,"Sore throat, Fever, Cough, Vomiting",1,1
+Strep throat,"Sore throat, Fever, Headache, Nasal congestion",2,1
+Strep throat,"Sore throat, Fever, Cough, Headache, Vomiting, Ear pain, Nasal congestion, Decreased appetite",1,0
+Strep throat,"Sore throat, Fever, Ache all over",2,0
+Strep throat,"Sore throat, Fever, Cough, Vomiting, Decreased appetite",0,1
+Strep throat,"Sore throat, Fever, Headache, Vomiting, Decreased appetite",2,1
+Strep throat,"Sore throat, Fever, Cough, Vomiting, Nasal congestion",2,1
+Strep throat,"Sore throat, Cough, Vomiting, Skin rash, Ache all over, Difficulty in swallowing",4,0
+Strep throat,"Sore throat, Fever, Chills",1,0
+Strep throat,"Sore throat, Fever, Vomiting, Ear pain, Nasal congestion, Skin rash",2,1
+Strep throat,"Sore throat, Fever, Ear pain, Nasal congestion, Difficulty in swallowing",2,1
+Strep throat,"Sore throat, Fever, Cough, Headache, Vomiting",2,1
+Strep throat,"Sore throat, Fever, Cough, Ache all over, Difficulty in swallowing, Decreased appetite",2,1
+Strep throat,"Sore throat, Fever, Cough, Vomiting, Skin rash, Ache all over, Difficulty in swallowing",1,1
+Strep throat,"Sore throat, Fever, Cough",3,1
+Strep throat,"Sore throat, Cough, Ear pain, Skin rash, Ache all over",2,0
+Strep throat,"Sore throat, Vomiting, Ear pain, Ache all over",0,1
+Strep throat,"Sore throat, Fever, Cough, Vomiting, Ear pain, Skin rash",3,0
+Strep throat,"Sore throat, Fever, Headache, Vomiting, Ear pain, Chills",2,0
+Strep throat,"Sore throat, Headache, Vomiting, Ache all over",3,0
+Strep throat,"Sore throat, Fever, Cough, Ear pain, Nasal congestion, Ache all over",3,1
+Urinary tract infection,"Painful urination, Sharp abdominal pain, Fever, Back pain, Blood in urine",7,1
+Urinary tract infection,"Painful urination, Blood in urine",5,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Fever, Retention of urine, Lower abdominal pain",7,1
+Urinary tract infection,"Painful urination, Fever, Vomiting, Back pain, Blood in urine",6,1
+Urinary tract infection,"Suprapubic pain, Back pain",6,1
+Urinary tract infection,"Suprapubic pain, Sharp abdominal pain, Frequent urination, Back pain, Blood in urine, Lower abdominal pain",1,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Frequent urination, Fever, Vomiting, Nausea, Blood in urine",7,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Frequent urination, Vomiting, Blood in urine, Lower abdominal pain",7,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Fever, Nausea",3,0
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Fever, Back pain, Nausea",4,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Frequent urination, Fever, Vomiting, Blood in urine, Lower abdominal pain",7,1
+Urinary tract infection,"Painful urination, Sharp abdominal pain, Back pain, Nausea, Lower abdominal pain",7,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Fever, Blood in urine",3,1
+Urinary tract infection,"Sharp abdominal pain, Frequent urination, Fever, Vomiting, Back pain",7,1
+Urinary tract infection,"Painful urination, Frequent urination, Back pain, Nausea, Blood in urine, Side pain",6,1
+Urinary tract infection,"Painful urination, Sharp abdominal pain, Frequent urination, Back pain, Nausea, Side pain, Retention of urine",7,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Fever, Back pain",6,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Vomiting, Back pain, Nausea, Side pain",5,1
+Urinary tract infection,"Painful urination, Sharp abdominal pain, Frequent urination, Fever, Vomiting, Nausea, Lower abdominal pain",4,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Vomiting, Back pain",3,1
+Urinary tract infection,"Painful urination, Frequent urination, Nausea",1,1
+Urinary tract infection,"Painful urination, Frequent urination, Fever, Nausea, Blood in urine, Lower abdominal pain",3,0
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Frequent urination, Fever, Vomiting",5,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Frequent urination, Fever, Vomiting, Nausea, Retention of urine",7,1
+Urinary tract infection,"Suprapubic pain, Sharp abdominal pain, Fever, Back pain, Blood in urine, Side pain",3,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Frequent urination, Back pain, Blood in urine",6,1
+Urinary tract infection,"Painful urination, Sharp abdominal pain, Fever, Back pain, Side pain",6,1
+Urinary tract infection,"Suprapubic pain, Sharp abdominal pain, Frequent urination, Back pain, Retention of urine, Lower abdominal pain",7,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Fever, Vomiting",6,1
+Urinary tract infection,"Painful urination, Suprapubic pain, Sharp abdominal pain, Frequent urination, Fever, Vomiting, Nausea, Side pain, Retention of urine",4,1
+Autism,"Temper problems, Antisocial behavior",1,0
+Autism,"Seizures, Hostile behavior, Constipation",2,0
+Autism,"Depressive or psychotic symptoms, Hostile behavior, Lack of growth, Constipation",2,0
+Autism,"Lack of growth, Restlessness",1,0
+Autism,"Seizures, Hostile behavior",1,0
+Autism,"Seizures, Depressive or psychotic symptoms, Obsessions and compulsions",2,0
+Autism,"Hostile behavior, Lack of growth, Restlessness",3,0
+Autism,"Seizures, Constipation",0,0
+Autism,"Hostile behavior, Lack of growth, Constipation",1,0
+Autism,"Seizures, Depressive or psychotic symptoms, Lack of growth",2,0
+Autism,"Depressive or psychotic symptoms, Hostile behavior, Constipation",2,0
+Autism,"Seizures, Antisocial behavior",1,0
+Autism,"Seizures, Depressive or psychotic symptoms",1,0
+Autism,"Seizures, Restlessness",2,0
+Autism,"Depressive or psychotic symptoms, Temper problems, Antisocial behavior",2,0
+Autism,"Depressive or psychotic symptoms, Constipation, Antisocial behavior",1,0
+Autism,"Depressive or psychotic symptoms, Lack of growth",2,0
+Autism,"Seizures, Depressive or psychotic symptoms, Constipation, Antisocial behavior",1,0
+Autism,"Seizures, Lack of growth",2,0
+Autism,"Seizures, Temper problems, Difficulty speaking",2,0
+Autism,"Depressive or psychotic symptoms, Hostile behavior, Constipation, Antisocial behavior, Long menstrual periods",3,0
+Autism,"Seizures, Depressive or psychotic symptoms, Temper problems",2,0
+Autism,"Depressive or psychotic symptoms, Long menstrual periods",1,0
+Autism,"Depressive or psychotic symptoms, Constipation",3,0
+Autism,"Depressive or psychotic symptoms, Hostile behavior, Constipation, Temper problems",3,0
+Autism,"Lack of growth, Antisocial behavior",2,0
+Flu,"Fever, Cough, Sore throat, Ache all over, Flu-like syndrome, Vomiting, Coryza, Nausea",4,1
+Flu,"Fever, Cough, Ache all over, Flu-like syndrome, Headache, Vomiting, Chills",2,0
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Flu-like syndrome, Headache, Chills, Coryza, Nausea",4,0
+Flu,"Fever, Cough, Chills, Coryza, Nausea",2,1
+Flu,"Fever, Cough, Sore throat, Ache all over, Flu-like syndrome, Headache, Nausea",2,0
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Ache all over, Headache, Vomiting, Coryza, Diarrhea",1,1
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Ache all over, Flu-like syndrome, Headache, Nausea",1,0
+Flu,"Fever, Cough, Nasal congestion, Headache, Vomiting",0,1
+Flu,"Fever, Cough, Nasal congestion, Ache all over, Flu-like syndrome, Headache, Vomiting, Nausea",2,0
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Ache all over, Headache, Chills",3,1
+Flu,"Fever, Cough, Ache all over, Flu-like syndrome, Headache, Vomiting, Nausea",2,0
+Flu,"Fever, Cough, Ache all over, Flu-like syndrome, Headache, Chills",3,1
+Flu,"Fever, Cough, Sore throat, Ache all over, Flu-like syndrome, Headache, Vomiting, Nausea",1,1
+Flu,"Fever, Cough, Ache all over, Flu-like syndrome, Chills, Nausea",2,0
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Ache all over, Coryza",1,0
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Ache all over, Headache, Diarrhea",0,0
+Flu,"Fever, Cough, Sore throat, Headache, Chills, Coryza",0,0
+Flu,"Fever, Cough, Nasal congestion, Headache",0,1
+Flu,"Cough, Sore throat, Nasal congestion, Chills, Coryza, Diarrhea",4,0
+Flu,"Fever, Cough, Sore throat, Ache all over, Chills",3,0
+Flu,"Fever, Cough, Sore throat, Ache all over, Flu-like syndrome, Coryza",1,0
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Headache, Coryza, Diarrhea",0,0
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Ache all over, Vomiting",0,0
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Ache all over, Flu-like syndrome, Vomiting",1,0
+Flu,"Cough, Nasal congestion, Headache, Vomiting, Coryza, Nausea",7,0
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Ache all over, Flu-like syndrome, Headache, Vomiting, Chills",1,0
+Flu,"Cough, Nasal congestion, Headache, Chills, Coryza, Diarrhea",1,0
+Flu,"Fever, Cough, Sore throat, Ache all over, Vomiting",6,1
+Flu,"Fever, Cough, Nasal congestion, Ache all over, Headache, Vomiting, Chills, Coryza",2,1
+Flu,"Fever, Cough, Sore throat, Nasal congestion, Ache all over, Flu-like syndrome, Vomiting, Coryza, Nausea",7,1
+Pneumonia,"Fever, Sharp chest pain, Difficulty breathing, Wheezing",6,0
+Pneumonia,"Cough, Fever, Sharp chest pain, Chills",1,1
+Pneumonia,"Shortness of breath, Difficulty breathing, Vomiting",2,1
+Pneumonia,"Cough, Shortness of breath, Sore throat",4,0
+Pneumonia,"Cough, Fever, Nasal congestion, Difficulty breathing, Sore throat, Wheezing",6,0
+Pneumonia,"Cough, Fever, Nasal congestion, Wheezing",5,1
+Pneumonia,"Cough, Coryza",1,0
+Pneumonia,"Cough, Nasal congestion, Difficulty breathing, Weakness",6,0
+Pneumonia,"Cough, Fever, Sharp chest pain, Difficulty breathing, Wheezing",6,0
+Pneumonia,"Cough, Nasal congestion, Vomiting",7,0
+Pneumonia,"Shortness of breath, Sharp chest pain, Nasal congestion, Coryza",1,1
+Pneumonia,"Cough, Fever, Shortness of breath, Sharp chest pain, Vomiting",2,1
+Pneumonia,"Sharp chest pain, Difficulty breathing, Vomiting",5,0
+Pneumonia,"Cough, Fever, Shortness of breath, Sharp chest pain, Nasal congestion, Difficulty breathing",2,1
+Pneumonia,"Cough, Fever, Shortness of breath, Sharp chest pain, Nasal congestion",2,1
+Pneumonia,"Cough, Fever, Shortness of breath, Sharp chest pain, Difficulty breathing, Vomiting, Wheezing",1,1
+Pneumonia,"Cough, Fever, Vomiting, Weakness",6,0
+Pneumonia,"Cough, Fever, Sharp chest pain, Nasal congestion, Vomiting",5,0
+Pneumonia,"Cough, Fever, Shortness of breath, Vomiting",1,0
+Pneumonia,"Fever, Shortness of breath, Sharp chest pain",7,1
+Pneumonia,"Cough, Fever, Shortness of breath, Sharp chest pain, Difficulty breathing, Weakness, Wheezing, Chills",0,0
+Pneumonia,"Cough, Fever, Sharp chest pain, Vomiting, Weakness, Sore throat, Chills",5,0
+Pneumonia,"Cough, Fever, Shortness of breath, Sharp chest pain, Vomiting, Wheezing, Chills",7,0
+Pneumonia,"Cough, Fever, Difficulty breathing, Sore throat",5,0
+Pneumonia,"Cough, Fever, Shortness of breath, Nasal congestion, Sore throat",2,0
+Pneumonia,"Cough, Fever, Sharp chest pain, Difficulty breathing",7,1
+Pneumonia,"Cough, Shortness of breath, Sharp chest pain, Nasal congestion, Difficulty breathing, Weakness, Wheezing, Coryza",7,0
+Scoliosis,"Back pain, Leg pain",2,1
+Scoliosis,"Back pain, Lower body pain, Knee swelling",7,1
+Scoliosis,"Back pain, Muscle cramps or spasms",1,1
+Scoliosis,"Back pain, Low back pain",4,0
+Scoliosis,"Back pain, Low back pain, Leg pain, Problems with movement",4,0
+Scoliosis,"Back pain, Low back pain, Lower body pain",2,1
+Scoliosis,"Back pain, Low back pain, Leg pain",3,1
+Scoliosis,"Back pain, Low back pain, Problems with movement",2,0
+Scoliosis,"Low back pain, Leg pain",5,1
+Scoliosis,"Lower body pain, Knee swelling",2,1
+Scoliosis,"Knee swelling, Unusual color or odor to urine",2,1
+Scoliosis,"Leg pain, Lower body pain",7,1
+Scoliosis,"Back pain, Problems with movement",7,1
+Scoliosis,"Back pain, Low back pain, Leg weakness",0,0
+Scoliosis,"Low back pain, Problems with movement",2,0
+Scoliosis,"Leg pain, Knee swelling",2,1
+Ulcerative colitis,"Diarrhea, Sharp abdominal pain, Blood in stool, Nausea, Vomiting, Melena",0,0
+Ulcerative colitis,"Sharp abdominal pain, Blood in stool, Lower abdominal pain, Melena, Decreased appetite",5,1
+Ulcerative colitis,"Diarrhea, Blood in stool, Burning abdominal pain, Rectal bleeding",5,0
+Ulcerative colitis,"Diarrhea, Vomiting, Rectal bleeding",4,1
+Ulcerative colitis,"Diarrhea, Blood in stool, Vomiting",4,1
+Ulcerative colitis,"Diarrhea, Sharp abdominal pain, Blood in stool",5,0
+Ulcerative colitis,"Diarrhea, Nausea, Lower abdominal pain",3,1
+Ulcerative colitis,"Blood in stool, Nausea",6,1
+Ulcerative colitis,"Diarrhea, Blood in stool",4,0
+Ulcerative colitis,"Diarrhea, Decreased appetite",5,1
+Ulcerative colitis,"Diarrhea, Sharp abdominal pain, Blood in stool, Nausea, Vomiting",5,0
+Ulcerative colitis,"Diarrhea, Nausea",2,0
+Ulcerative colitis,"Sharp abdominal pain, Nausea, Vomiting, Rectal bleeding",5,0
+Ulcerative colitis,"Sharp abdominal pain, Blood in stool, Burning abdominal pain, Lower abdominal pain, Melena",6,0
+Ulcerative colitis,"Diarrhea, Blood in stool, Lower abdominal pain",4,0
+Ulcerative colitis,"Diarrhea, Blood in stool, Nausea, Rectal bleeding, Melena",7,1
+Ulcerative colitis,"Diarrhea, Burning abdominal pain, Discharge in stools",6,1
+Ulcerative colitis,"Sharp abdominal pain, Vomiting, Burning abdominal pain, Rectal bleeding",6,0
+Ulcerative colitis,"Diarrhea, Sharp abdominal pain, Lower abdominal pain",7,0
+Ulcerative colitis,"Sharp abdominal pain, Vomiting, Decreased appetite",6,1
+Ulcerative colitis,"Diarrhea, Blood in stool, Vomiting, Burning abdominal pain, Discharge in stools",5,0
+Ulcerative colitis,"Nausea, Rectal bleeding",6,1
+Ulcerative colitis,"Blood in stool, Nausea, Burning abdominal pain",7,0
+Ulcerative colitis,"Diarrhea, Nausea, Swollen lymph nodes",5,1
+Ulcerative colitis,"Sharp abdominal pain, Blood in stool, Discharge in stools",4,1
+Ulcerative colitis,"Nausea, Burning abdominal pain, Rectal bleeding, Lower abdominal pain",7,1
+Ulcerative colitis,"Diarrhea, Sharp abdominal pain, Nausea, Melena, Discharge in stools",5,1
+Uterine fibroids,"Sharp abdominal pain, Heavy menstrual flow",5,1
+Uterine fibroids,"Sharp abdominal pain, Infertility",6,1
+Uterine fibroids,"Sharp abdominal pain, Painful menstruation, Long menstrual periods, Involuntary urination",5,1
+Uterine fibroids,"Sharp abdominal pain, Lower abdominal pain, Vaginal discharge",3,1
+Uterine fibroids,"Sharp abdominal pain, Pelvic pain, Lower abdominal pain",6,1
+Uterine fibroids,"Sharp abdominal pain, Heavy menstrual flow, Infertility",4,1
+Uterine fibroids,"Heavy menstrual flow, Lower abdominal pain",4,1
+Uterine fibroids,"Pelvic pain, Heavy menstrual flow",3,1
+Uterine fibroids,"Pelvic pain, Lower abdominal pain",5,1
+Uterine fibroids,"Sharp abdominal pain, Vaginal discharge",4,1
+Uterine fibroids,"Sharp abdominal pain, Heavy menstrual flow, Long menstrual periods",6,1
+Uterine fibroids,"Sharp abdominal pain, Painful menstruation, Cramps and spasms",5,1
+Uterine fibroids,"Sharp abdominal pain, Heavy menstrual flow, Lower abdominal pain",5,1
+Uterine fibroids,"Pelvic pain, Lower abdominal pain, Intermenstrual bleeding",4,1
+Uterine fibroids,"Sharp abdominal pain, Painful menstruation",5,1
+Uterine fibroids,"Sharp abdominal pain, Pelvic pain, Heavy menstrual flow, Lower abdominal pain",5,1
+Uterine fibroids,"Sharp abdominal pain, Pelvic pain",4,1
+Uterine fibroids,"Sharp abdominal pain, Pelvic pain, Infertility",4,1
+Uterine fibroids,"Intermenstrual bleeding, Long menstrual periods",4,1
+Uterine fibroids,"Heavy menstrual flow, Cramps and spasms",5,1
+Uterine fibroids,"Lower abdominal pain, Unpredictable menstruation",5,1
+Uterine fibroids,"Pelvic pain, Heavy menstrual flow, Unpredictable menstruation, Infertility",5,1
+Uterine fibroids,"Sharp abdominal pain, Pelvic pain, Heavy menstrual flow, Unpredictable menstruation, Long menstrual periods",6,1
+Uterine fibroids,"Heavy menstrual flow, Intermenstrual bleeding",4,1
+Uterine fibroids,"Sharp abdominal pain, Pelvic pain, Heavy menstrual flow, Long menstrual periods",5,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Heavy menstrual flow, Lower abdominal pain",3,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Unpredictable menstruation, Vaginal itching",3,1
+Idiopathic painful menstruation,"Sharp abdominal pain, Heavy menstrual flow, Absence of menstruation",4,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Lower abdominal pain, Cramps and spasms, Unpredictable menstruation",3,1
+Idiopathic painful menstruation,"Painful menstruation, Pelvic pain, Heavy menstrual flow, Cramps and spasms",4,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Absence of menstruation",4,1
+Idiopathic painful menstruation,"Painful menstruation, Heavy menstrual flow",4,1
+Idiopathic painful menstruation,"Painful menstruation, Vaginal itching",5,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Pelvic pain",4,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Heavy menstrual flow",3,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Heavy menstrual flow, Long menstrual periods",2,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Pelvic pain, Heavy menstrual flow, Cramps and spasms, Long menstrual periods, Unpredictable menstruation",3,1
+Idiopathic painful menstruation,"Painful menstruation, Heavy menstrual flow, Lower abdominal pain, Long menstrual periods",2,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Pelvic pain, Lower abdominal pain, Cramps and spasms, Long menstrual periods, Unpredictable menstruation",4,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Pelvic pain, Heavy menstrual flow, Lower abdominal pain",4,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Cramps and spasms, Long menstrual periods",3,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Long menstrual periods, Vaginal itching",3,1
+Idiopathic painful menstruation,"Pelvic pain, Heavy menstrual flow, Unpredictable menstruation, Blood clots during menstrual periods",3,1
+Idiopathic painful menstruation,"Painful menstruation, Pelvic pain, Heavy menstrual flow",2,1
+Idiopathic painful menstruation,"Sharp abdominal pain, Pelvic pain, Lower abdominal pain, Cramps and spasms",4,1
+Idiopathic painful menstruation,"Painful menstruation, Lower abdominal pain, Cramps and spasms",3,1
+Idiopathic painful menstruation,"Sharp abdominal pain, Lower abdominal pain, Cramps and spasms, Unpredictable menstruation",3,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Pelvic pain, Lower abdominal pain, Long menstrual periods",3,1
+Idiopathic painful menstruation,"Painful menstruation, Sharp abdominal pain, Pelvic pain, Heavy menstrual flow",3,1
+Eczema,"Skin rash, Itching of skin, Abnormal appearing skin, Skin dryness or roughness, Skin swelling",1,0
+Eczema,"Skin rash, Cough",1,0
+Eczema,"Skin rash, Abnormal appearing skin, Cough",1,0
+Eczema,"Skin rash, Itching of skin, Abnormal appearing skin, Skin lesion, Cough, Warts",1,0
+Eczema,"Skin rash, Itching of skin, Skin lesion, Cough, Skin swelling",2,0
+Eczema,"Abnormal appearing skin, Acne or pimples",5,1
+Eczema,"Skin rash, Skin dryness or roughness, Skin lesion",0,0
+Eczema,"Skin rash, Allergic reaction",3,1
+Eczema,"Skin rash, Skin dryness or roughness, Cough, Acne or pimples",1,0
+Eczema,"Skin rash, Itching of skin, Abnormal appearing skin, Skin dryness or roughness, Skin lesion, Cough, Allergic reaction, Skin irritation",0,1
+Eczema,"Skin rash, Itching of skin, Abnormal appearing skin, Acne or pimples, Skin swelling",0,0
+Eczema,"Skin rash, Itching of skin, Abnormal appearing skin, Skin dryness or roughness, Skin irritation",1,1
+Eczema,"Skin rash, Itching of skin, Abnormal appearing skin, Skin lesion, Irregular appearing scalp",2,0
+Eczema,"Skin rash, Abnormal appearing skin, Acne or pimples",0,0
+Eczema,"Skin rash, Itching of skin, Cough",1,0
+Eczema,"Skin rash, Skin irritation",1,0
+Eczema,"Skin rash, Itching of skin, Abnormal appearing skin, Skin lesion, Cough",4,0
+Eczema,"Skin rash, Abnormal appearing skin, Skin dryness or roughness, Skin lesion",7,1
+Eczema,"Skin rash, Itching of skin, Skin dryness or roughness, Cough",0,1
+Eczema,"Skin rash, Abnormal appearing skin, Cough, Acne or pimples",1,1
+Allergy,"Skin rash, Allergic reaction, Itching of skin, Lip swelling",1,1
+Allergy,"Allergic reaction, Itching of skin, Abnormal appearing skin, Cough, Swollen eye, Skin swelling",1,0
+Allergy,"Skin rash, Allergic reaction, Itching of skin, Cough, Swollen eye, Itchiness of eye",1,1
+Allergy,"Skin rash, Allergic reaction, Itching of skin, Abnormal appearing skin, Itchiness of eye",3,1
+Allergy,"Skin rash, Peripheral edema, Cough",2,1
+Allergy,"Skin rash, Allergic reaction, Itching of skin, Abnormal appearing skin, Cough",1,0
+Allergy,"Skin rash, Allergic reaction, Abnormal appearing skin, Cough",6,0
+Allergy,"Allergic reaction, Itching of skin, Peripheral edema, Skin swelling",1,0
+Allergy,"Skin rash, Itching of skin, Swollen eye, Skin swelling",4,1
+Allergy,"Allergic reaction, Itching of skin, Cough",1,1
+Allergy,"Skin rash, Abnormal appearing skin, Cough, Skin swelling",2,0
+Allergy,"Skin rash, Allergic reaction, Itching of skin, Abnormal appearing skin, Lip swelling",3,0
+Allergy,"Allergic reaction, Itching of skin, Cough, Itchiness of eye",0,1
+Allergy,"Skin rash, Itching of skin, Abnormal appearing skin, Swollen eye, Skin swelling",2,0
+Allergy,"Skin rash, Allergic reaction, Peripheral edema, Abnormal appearing skin",4,1
+Allergy,"Skin rash, Itching of skin, Abnormal appearing skin, Skin swelling, Itchiness of eye, Swollen tongue",5,0
+Allergy,"Skin rash, Itching of skin, Peripheral edema, Abnormal appearing skin, Lip swelling",1,1
+Allergy,"Skin rash, Allergic reaction, Itching of skin, Peripheral edema",2,0
+Allergy,"Allergic reaction, Itching of skin, Abnormal appearing skin, Cough",1,0
+Allergy,"Skin rash, Itching of skin, Peripheral edema",0,0
+Allergy,"Skin rash, Allergic reaction, Itching of skin, Swollen eye",2,0
+Allergy,"Skin rash, Fluid retention",1,0
+Chronic glaucoma,"Foreign body sensation in eye, White discharge from eye",7,1
+Chronic glaucoma,"Diminished vision, Symptoms of eye, Spots or clouds in vision, Mass on eyelid",5,0
+Chronic glaucoma,"Diminished vision, Spots or clouds in vision",5,0
+Chronic glaucoma,"Pain in eye, Blindness",7,1
+Chronic glaucoma,"Pain in eye, Symptoms of eye, Foreign body sensation in eye",6,1
+Chronic glaucoma,"Pain in eye, Symptoms of eye",7,1
+Chronic glaucoma,"Diminished vision, Lacrimation, Blindness",6,0
+Chronic glaucoma,"Lacrimation, Itchiness of eye",7,1
+Chronic glaucoma,"Spots or clouds in vision, Double vision",7,0
+Chronic glaucoma,"Diminished vision, Pain in eye",7,1
+Chronic glaucoma,"Diminished vision, Pain in eye, Eye burns or stings, White discharge from eye",6,1
+Chronic glaucoma,"Diminished vision, Lacrimation",6,1
+Chronic glaucoma,"Diminished vision, Pain in eye, Eye burns or stings",6,0
+Chronic glaucoma,"Pain in eye, Itchiness of eye",5,1
+Chronic glaucoma,"Spots or clouds in vision, Lacrimation",6,0
+Chronic glaucoma,"Diminished vision, Symptoms of eye, Foreign body sensation in eye, Double vision",6,1
+Chronic glaucoma,"Pain in eye, Spots or clouds in vision",7,1
+Chronic glaucoma,"Diminished vision, Symptoms of eye, White discharge from eye",7,1
+Chronic glaucoma,"Diminished vision, Symptoms of eye, Spots or clouds in vision, Itchiness of eye",7,0
+Chronic glaucoma,"Symptoms of eye, Lacrimation, Blindness",5,1
+Chronic glaucoma,"Diminished vision, Spots or clouds in vision, Lacrimation",5,0
+Chronic glaucoma,"Diminished vision, Blindness",6,0
+Chronic glaucoma,"Diminished vision, Pain in eye, Symptoms of eye",6,1
+Chronic glaucoma,"Symptoms of eye, Spots or clouds in vision",6,0
+Chronic glaucoma,"Pain in eye, Symptoms of eye, Eye burns or stings",7,0
+Chronic glaucoma,"Diminished vision, Symptoms of eye, Foreign body sensation in eye",5,0
+Chronic glaucoma,"Diminished vision, Pain in eye, Spots or clouds in vision, Lacrimation, Foreign body sensation in eye, White discharge from eye",4,0
+Diabetes,"Weight gain, Thirst",7,1
+Diabetes,"Weight gain, Symptoms of the kidneys",7,1
+Diabetes,"Thirst, Symptoms of the kidneys",6,1
+Epilepsy,"Seizures, Headache, Abnormal involuntary movements, Disturbance of memory",4,1
+Epilepsy,"Seizures, Headache, Abnormal involuntary movements",2,0
+Epilepsy,"Seizures, Headache",5,0
+Epilepsy,"Seizures, Disturbance of memory",3,1
+Epilepsy,"Seizures, Abnormal involuntary movements, Disturbance of memory, Lack of growth",2,0
+Epilepsy,"Seizures, Headache, Abnormal involuntary movements, Difficulty speaking",2,0
+Epilepsy,"Seizures, Abnormal involuntary movements",6,1
+Epilepsy,"Seizures, Headache, Lack of growth",1,1
+Myopia,"Diminished vision, Pain in eye, Symptoms of eye, Eye redness",6,1
+Myopia,"Diminished vision, Pain in eye, Eye redness",3,0
+Myopia,"Diminished vision, Eye redness, Foreign body sensation in eye",1,1
+Myopia,"Diminished vision, Symptoms of eye, Eye redness",2,0
+Myopia,"Diminished vision, Spots or clouds in vision, Itchiness of eye",5,1
+Myopia,"Diminished vision, Symptoms of eye",2,0
+Myopia,"Diminished vision, Symptoms of eye, Itchiness of eye",2,1
+Myopia,"Diminished vision, Eye redness",6,1
+Myopia,"Diminished vision, Pain in eye, Foreign body sensation in eye",6,1
+Myopia,"Diminished vision, Spots or clouds in vision, Pain in eye",5,1
+Myopia,"Diminished vision, Eye redness, Lacrimation",5,1
+Myopia,"Diminished vision, Spots or clouds in vision, Pain in eye, Symptoms of eye",2,1
+Myopia,"Diminished vision, Spots or clouds in vision, Eye redness",4,0
+Myopia,"Diminished vision, Abnormal movement of eyelid",2,0
+Myopia,"Diminished vision, Spots or clouds in vision, Symptoms of eye",1,1
+Myopia,"Diminished vision, Spots or clouds in vision, Symptoms of eye, Eye redness",2,1
+Sepsis,"Fever, Depressive or psychotic symptoms, Sharp abdominal pain, Feeling ill",0,0
+Sepsis,"Fever, Depressive or psychotic symptoms, Vomiting, Decreased appetite",7,0
+Sepsis,"Fever, Shortness of breath, Vomiting, Chills",5,0
+Sepsis,"Fever, Shortness of breath, Cough, Feeling ill",0,1
+Sepsis,"Depressive or psychotic symptoms, Weakness, Chills",7,1
+Sepsis,"Fever, Shortness of breath, Vomiting",7,0
+Sepsis,"Fever, Shortness of breath, Weakness, Vomiting, Difficulty breathing, Suprapubic pain",7,0
+Sepsis,"Depressive or psychotic symptoms, Feeling ill",7,1
+Sepsis,"Fever, Shortness of breath, Vomiting, Difficulty breathing",5,1
+Sepsis,"Fever, Shortness of breath, Difficulty breathing",7,0
+Sepsis,"Fever, Shortness of breath, Chills",4,1
+Sepsis,"Fever, Depressive or psychotic symptoms, Shortness of breath, Vomiting, Cough, Sharp abdominal pain, Chills, Feeling ill",7,1
+Sepsis,"Fever, Shortness of breath, Weakness, Cough, Sharp abdominal pain",0,0
+Sepsis,"Fever, Depressive or psychotic symptoms, Shortness of breath, Weakness, Cough",0,1
+Sepsis,"Fever, Shortness of breath, Vomiting, Cough, Chills",7,0
+Sepsis,"Fever, Depressive or psychotic symptoms, Shortness of breath, Vomiting, Feeling ill",1,0
+Sepsis,"Shortness of breath, Vomiting, Decreased appetite",3,1
+Sepsis,"Fever, Depressive or psychotic symptoms, Weakness, Decreased appetite, Suprapubic pain",0,0
+Sepsis,"Fever, Depressive or psychotic symptoms, Shortness of breath, Weakness, Vomiting, Chills, Feeling ill",5,1
+Sepsis,"Fever, Cough, Suprapubic pain",4,1
+Sepsis,"Fever, Depressive or psychotic symptoms, Shortness of breath, Weakness, Vomiting, Cough, Chills",6,1
+Sepsis,"Fever, Difficulty breathing, Decreased appetite, Suprapubic pain",7,0
+Sepsis,"Fever, Weakness, Vomiting",1,0
+Sepsis,"Fever, Shortness of breath, Difficulty breathing, Chills",0,1
+Sepsis,"Fever, Depressive or psychotic symptoms, Cough, Decreased appetite, Suprapubic pain",0,0
+Sepsis,"Fever, Depressive or psychotic symptoms, Vomiting, Difficulty breathing, Sharp abdominal pain, Chills",5,0
+Sepsis,"Fever, Weakness, Cough, Sharp abdominal pain, Chills",7,1
+Sepsis,"Fever, Depressive or psychotic symptoms, Shortness of breath, Weakness, Difficulty breathing, Chills",6,1
+Sepsis,"Shortness of breath, Weakness, Vomiting, Difficulty breathing, Sharp abdominal pain, Feeling ill",4,0
+Indigestion,"Burning abdominal pain, Nausea, Upper abdominal pain, Heartburn, Vomiting",5,0
+Indigestion,"Burning abdominal pain, Nausea, Upper abdominal pain, Heartburn, Diarrhea, Constipation, Decreased appetite",2,0
+Indigestion,"Sharp abdominal pain, Burning abdominal pain, Nausea, Heartburn, Sharp chest pain",4,0
+Indigestion,"Burning abdominal pain, Nausea, Upper abdominal pain, Vomiting, Sharp chest pain, Decreased appetite",6,0
+Indigestion,"Sharp abdominal pain, Burning abdominal pain, Heartburn, Vomiting",3,1
+Indigestion,"Sharp abdominal pain, Nausea, Upper abdominal pain, Vomiting, Constipation, Regurgitation, Stomach bloating",3,0
+Indigestion,"Sharp abdominal pain, Burning abdominal pain, Nausea",5,0
+Indigestion,"Burning abdominal pain, Upper abdominal pain, Heartburn, Sharp chest pain, Diarrhea",5,0
+Indigestion,"Burning abdominal pain, Nausea, Upper abdominal pain, Constipation",7,1
+Indigestion,"Sharp abdominal pain, Nausea, Upper abdominal pain, Heartburn, Vomiting, Sharp chest pain",6,0
+Indigestion,"Burning abdominal pain, Nausea, Upper abdominal pain, Vomiting, Sharp chest pain",1,0
+Indigestion,"Sharp abdominal pain, Nausea, Upper abdominal pain, Heartburn, Vomiting",1,0
+Indigestion,"Sharp abdominal pain, Burning abdominal pain, Nausea, Regurgitation, Stomach bloating",4,0
+Indigestion,"Sharp abdominal pain, Heartburn, Vomiting, Sharp chest pain",3,0
+Indigestion,"Sharp abdominal pain, Nausea, Heartburn, Vomiting",6,1
+Indigestion,"Burning abdominal pain, Upper abdominal pain, Heartburn, Decreased appetite",3,1
+Indigestion,"Sharp abdominal pain, Nausea, Sharp chest pain, Decreased appetite",6,1
+Indigestion,"Sharp abdominal pain, Burning abdominal pain, Upper abdominal pain, Heartburn, Vomiting, Sharp chest pain",1,1
+Indigestion,"Sharp abdominal pain, Vomiting, Regurgitation",6,0
+Indigestion,"Sharp abdominal pain, Burning abdominal pain, Upper abdominal pain, Sharp chest pain, Stomach bloating",5,1
+Indigestion,"Sharp abdominal pain, Nausea, Vomiting, Sharp chest pain, Regurgitation",5,1
+Indigestion,"Sharp abdominal pain, Burning abdominal pain, Vomiting",1,1
+Indigestion,"Sharp abdominal pain, Upper abdominal pain, Heartburn, Diarrhea, Stomach bloating",3,1
+Indigestion,"Sharp abdominal pain, Heartburn, Sharp chest pain, Regurgitation",5,0
+Indigestion,"Sharp abdominal pain, Upper abdominal pain, Constipation",4,0
+Indigestion,"Nausea, Diarrhea, Regurgitation",3,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Fatigue, Apnea, Sleepiness, Headache",5,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Fatigue, Sleepiness, Anxiety and nervousness, Sleepwalking",1,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Fatigue, Anxiety and nervousness, Neck pain",1,1
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Sleepiness",1,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Sleepwalking, Neck pain",4,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Fatigue, Apnea, Sleepiness, Headache, Sleepwalking",5,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Fatigue, Seizures, Delusions or hallucinations",4,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Sleepiness, Anxiety and nervousness, Sleepwalking, Seizures, Neck pain, Abnormal involuntary movements",5,0
+Primary insomnia,"Fatigue, Abnormal involuntary movements",7,0
+Primary insomnia,"Insomnia, Headache",7,1
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Sleepiness, Headache, Sleepwalking, Abnormal involuntary movements, Delusions or hallucinations",2,1
+Primary insomnia,"Apnea, Sleepiness, Anxiety and nervousness, Sleepwalking, Neck pain",4,1
+Primary insomnia,"Sleepiness, Headache, Anxiety and nervousness, Neck pain",1,1
+Primary insomnia,"Insomnia, Headache, Neck pain, Abnormal involuntary movements",4,1
+Primary insomnia,"Insomnia, Apnea, Headache, Sleepwalking, Seizures, Abnormal involuntary movements, Delusions or hallucinations",2,1
+Primary insomnia,"Abnormal breathing sounds, Headache, Abnormal involuntary movements",3,1
+Primary insomnia,"Abnormal breathing sounds, Abnormal involuntary movements",2,1
+Primary insomnia,"Insomnia, Fatigue, Apnea, Headache, Anxiety and nervousness, Seizures, Neck pain, Abnormal involuntary movements",2,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Fatigue, Sleepiness, Sleepwalking, Delusions or hallucinations",4,1
+Primary insomnia,"Insomnia, Sleepiness, Seizures",1,0
+Primary insomnia,"Insomnia, Fatigue, Headache, Anxiety and nervousness, Sleepwalking",1,1
+Primary insomnia,"Insomnia, Fatigue, Apnea, Sleepwalking",0,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Fatigue, Sleepiness, Anxiety and nervousness, Sleepwalking, Seizures",5,1
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Anxiety and nervousness, Neck pain, Abnormal involuntary movements",1,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Sleepiness, Headache, Neck pain, Abnormal involuntary movements",5,1
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Sleepiness, Abnormal involuntary movements",7,1
+Primary insomnia,"Insomnia, Headache, Sleepwalking, Seizures",1,0
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Headache, Anxiety and nervousness, Seizures, Neck pain",6,1
+Primary insomnia,"Insomnia, Abnormal breathing sounds, Fatigue, Sleepiness, Sleepwalking, Neck pain, Delusions or hallucinations",5,0
+Fungal infection of the skin,"Skin rash, Irregular appearing scalp, Irregular appearing nails",6,1
+Fungal infection of the skin,"Skin rash, Abnormal appearing skin, Dry or flaky scalp",4,1
+Fungal infection of the skin,"Skin rash, Too little hair, Skin dryness or roughness",5,1
+Fungal infection of the skin,"Skin rash, Itching of skin, Skin lesion, Skin swelling, Too little hair, Acne or pimples",3,0
+Fungal infection of the skin,"Skin rash, Skin swelling, Skin dryness or roughness",4,0
+Fungal infection of the skin,"Skin rash, Abnormal appearing skin, Skin lesion, Dry or flaky scalp, Acne or pimples",2,0
+Fungal infection of the skin,"Skin rash, Skin swelling, Acne or pimples",2,0
+Fungal infection of the skin,"Skin rash, Itching of skin, Abnormal appearing skin, Skin lesion, Skin swelling, Irregular appearing nails",2,1
+Fungal infection of the skin,"Itching of skin, Too little hair, Itchy scalp, Irregular appearing nails",2,0
+Fungal infection of the skin,"Skin rash, Itching of skin, Skin swelling, Too little hair, Acne or pimples",4,1
+Fungal infection of the skin,"Skin rash, Itching of skin, Abnormal appearing skin, Skin lesion, Skin swelling",1,0
+Fungal infection of the skin,"Skin rash, Too little hair",2,0
+Fungal infection of the skin,"Skin rash, Abnormal appearing skin, Acne or pimples, Irregular appearing nails",5,0
+Fungal infection of the skin,"Skin rash, Itching of skin, Irregular appearing scalp, Skin swelling, Too little hair, Acne or pimples",2,0
+Fungal infection of the skin,"Skin rash, Abnormal appearing skin, Irregular appearing scalp",1,0
+Fungal infection of the skin,"Skin rash, Itching of skin, Skin swelling, Skin dryness or roughness",1,0
+Fungal infection of the skin,"Skin rash, Irregular appearing scalp",2,0
+Lyme disease,"Headache, Fatigue, Chills, Hand or finger pain",4,1
+Lyme disease,"Fatigue, Abnormal appearing skin, Hand or finger pain",4,1
+Lyme disease,"Headache, Abnormal appearing skin, Chills, Symptoms of the face",1,1
+Lyme disease,"Skin rash, Headache, Abnormal appearing skin, Hip pain",4,1
+Lyme disease,"Skin rash, Headache, Fatigue, Depressive or psychotic symptoms",4,1
+Lyme disease,"Fever, Fatigue",4,0
+Lyme disease,"Fever, Skin rash, Headache, Fatigue, Depressive or psychotic symptoms, Chills, Hand or finger pain",4,1
+Lyme disease,"Fever, Fatigue, Hand or finger pain",3,1
+Lyme disease,"Fever, Skin rash, Fatigue, Chills, Hand or finger pain",6,0
+Lyme disease,"Fever, Loss of sensation, Depressive or psychotic symptoms",4,1
+Lyme disease,"Fever, Headache, Fatigue, Abnormal appearing skin, Loss of sensation",2,0
+Lyme disease,"Fever, Headache, Abnormal appearing skin, Joint pain",3,1
+Lyme disease,"Fever, Skin rash, Loss of sensation, Joint pain, Hip pain",4,0
+Lyme disease,"Fever, Depressive or psychotic symptoms, Symptoms of the face",6,1
+Lyme disease,"Headache, Fatigue, Abnormal appearing skin, Depressive or psychotic symptoms, Joint pain",3,0
+Lyme disease,"Fever, Abnormal appearing skin, Loss of sensation",4,1
+Lyme disease,"Fever, Skin rash, Abnormal appearing skin, Chills",5,1
+Lyme disease,"Skin rash, Fatigue, Abnormal appearing skin, Hand or finger pain",2,1
+Lyme disease,"Fever, Headache, Abnormal appearing skin, Hip pain, Symptoms of the face",5,1
+Lyme disease,"Skin rash, Loss of sensation",5,1
+Lyme disease,"Fever, Headache, Fatigue, Chills, Hand or finger pain",3,1
+Lyme disease,"Headache, Fatigue, Depressive or psychotic symptoms, Symptoms of the face",6,1
+Lyme disease,"Fever, Headache, Joint pain",6,0
+Lyme disease,"Fever, Headache, Fatigue",4,1
+Lyme disease,"Fever, Skin rash, Hand or finger pain",7,1
+Lyme disease,"Skin rash, Headache, Depressive or psychotic symptoms",5,1
+Lyme disease,"Fever, Fatigue, Abnormal appearing skin, Hip pain",5,0
+Lyme disease,"Fever, Skin rash, Loss of sensation, Hip pain",1,1
+Lyme disease,"Fever, Skin rash, Fatigue, Symptoms of the face",5,0

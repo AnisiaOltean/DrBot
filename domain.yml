@@ -1,0 +1,92 @@
+version: "3.1"
+
+entities:
+  - SYMPTOM:
+      influence_conversation: false
+  - DISEASE:
+      influence_conversation: false
+  - STREET:
+      influence_conversation: false
+  - TOWN:
+      influence_conversation: false
+
+slots:
+  symptoms:
+    type: list
+    initial_value: []
+    influence_conversation: false
+    mappings: []
+
+  user_location:
+    type: text
+    influence_conversation: false
+    mappings: []
+
+  diagnosis:
+    type: text
+    influence_conversation: false
+    mappings: []
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - mood_sick
+  - start_diagnosis
+  - bot_challenge
+  - describe_symptoms
+  - give_location
+  - give_thanks
+  - find_hospitals
+  - give_explanation
+  - give_treatments
+  - use_current_location
+  - use_another_location
+
+actions:
+  - action_give_diagnosis
+  - action_collect_symptoms
+  - action_find_hospitals
+  - action_find_hospitals_current_location
+  - action_give_explanation
+  - action_give_treatments
+  - action_cleanup
+
+responses:
+  utter_greet:
+  - text: "Hello! I am a medical chatbot, powered by Rasa. I can help you diagnose your symptoms, tell you about what certain diseases mean and give advice on how to treat them. If you want, I can also help you find hospitals based on street names and town. How are you feeling today?"
+  - text: "Hello! I am a medical chatbot, powered by Rasa. I can help you diagnose your symptoms, tell you about what certain diseases mean and give advice on how to treat them. If you want, I can also help you find hospitals based on street names and town. How can I help you?"
+
+  utter_happy:
+  - text: "No worries! I am here to help if you need me!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a medical chatbot, powered by Rasa. I can help you diagnose your symptoms, tell you about what certain diseases mean and give advice on how to treat them. If you want, I can also help you find hospitals based on street names and town."
+
+  utter_mood_sick:
+    - text: "I am so sorry to hear that! What symptoms are you experiencing?"
+    - text: "I'm sorry you don't feel good! Can you tell me more about your symptoms?"
+    - text: "Don't worry, I am here to help. Can you tell me about the symptoms you are experiencing?"
+
+  utter_give_thanks:
+    - text: "You're welcome!"
+
+  utter_ask_location:
+    - text: 'Would you like me to use your location or do you want to find a hospital somewhere else?'
+
+  utter_give_location:
+    - text: "Surely! What is your current location (street name and town)?"
+    - text: "To do this I will need you to tell me your location (street name and town)"
+
+  utter_please_rephrase:
+    - text: "I'm sorry, I didn't quite understand that. Could you rephrase?"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

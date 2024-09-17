@@ -1,0 +1,230 @@
+{
+  "contact dermatitis": {
+    "description": "Contact dermatitis is a condition in which the skin becomes red, sore, or inflamed after direct contact with a substance.",
+    "treatments": "Often, treatment includes washing the area with a lot of water to get rid of any traces of the irritant that are still on the skin. You should avoid further exposure to the substance. But in some cases, the best treatment is to do nothing to the area.",
+    "treatments_list": [],
+    "see_doctor": "Seek immediate medical attention if you have a fever and the rash looks infected."
+  },
+  "acute bronchitis": {
+     "description": "Acute bronchitis is swelling and inflamed tissue in the bronchi, the main passages that carry air to the lungs. This swelling narrows the airways, which makes it harder to breathe. Other symptoms of bronchitis are a cough and coughing up mucus. Acute means the symptoms have been present only for a short time.",
+     "treatments": "Most people DO NOT need antibiotics for acute bronchitis caused by a virus. The infection will almost always go away on its own within 1 week, though a mild cough may persist for up to 3 weeks. Doing these things may help you feel better: ",
+     "treatments_list": ["Drink plenty of fluids and get plenty of rest.", "If you have asthma or another chronic lung condition, use your inhaler.", "Take aspirin or acetaminophen if you have a fever. DO NOT give aspirin to people under age 18.", "Breathe moist air by using a humidifier or steaming up the bathroom."],
+    "see_doctor": "See your doctor if your cough:\n\nLasts more than three weeks\nPrevents you from sleeping\nIs accompanied by fever higher than 100.4 F (38 C)\nProduces discolored mucus or blood\nIs associated with wheezing or shortness of breath"
+  },
+  "acute otitis media": {
+    "description": "An ear infection (sometimes called acute otitis media) is an infection of the middle ear, the air-filled space behind the eardrum that contains the tiny vibrating bones of the ear. Children are more likely than adults to get ear infections.",
+    "treatments": "Some ear infections clear on their own without antibiotics. Treating the pain and allowing the body time to heal itself is often all that is needed:",
+    "treatments_list": ["Apply a warm cloth or warm water bottle to the affected ear.", "Use over-the-counter pain relief drops for ears. Or, ask your healthcare provider about prescription eardrops to relieve pain.", "Take over-the-counter medicines such as ibuprofen or acetaminophen for pain or fever. Do not give aspirin to children."],
+    "see_doctor": "Call your doctor if:\n\nSymptoms last for more than a day\nSymptoms are present in a child less than 6 months of age\nEar pain is severe\nYour infant or toddler is sleepless or irritable after a cold or other upper respiratory infection\nYou observe a discharge of fluid, pus or bloody fluid from the ear"
+  },
+  "acute sinusitis": {
+    "description": "Sinusitis is present when the tissue lining the sinuses become swollen or inflamed. It occurs as the result of an inflammatory reaction or an infection from a virus, bacteria, or fungus.",
+    "treatments": "Try the following steps to reduce stuffiness in your sinuses:",
+    "treatments_list": ["Apply a warm, moist washcloth to your face several times a day.", "Drink plenty of fluids to thin the mucus.", "Inhale steam 2 to 4 times per day (for example, while sitting in the bathroom with the shower running).", "Spray with nasal saline several times per day. However, be careful with use of over-the-counter spray nasal decongestants as they may help at first, but using them for more than 3 to 5 days can make nasal stuffiness worse and lead to dependence.", "Avoid temperature extremes, sudden changes in temperature, and bending forward with your head down."],
+    "see_doctor": "Contact your health care provider if you have any of the following:\n\nSymptoms that last more than a week.\nSymptoms that get worse after seeming to get better.\nA fever that lasts.\nA history of repeated or chronic sinusitis."
+  },
+  "alzheimer disease": {
+    "description": "Alzheimer disease (AD) is the most common form of dementia. Dementia is a loss of brain function that occurs with certain diseases. It affects memory, thinking, and behavior.",
+    "treatments": "There is no cure for Alzheimer disease. However, there are some measures that may help prevent or slow the onset of Alzheimer disease:",
+    "treatments_list": ["Stay on a low-fat diet and eat foods high in omega-3 fatty acids.", "Get plenty of exercise.", "Stay mentally and socially active.", "Wear a helmet during risky activities to prevent brain injury."],
+    "see_doctor": "A number of conditions can result in memory loss or other dementia symptoms. Some of those conditions can be treated. If you are concerned about your memory or other thinking skills, talk to your health care professional."
+  },
+  "appendicitis": {
+    "description": "Appendicitis is a condition in which your appendix gets inflamed. The appendix is a small pouch attached to the end of the large intestine.",
+    "treatments": "Most of the time, a surgeon will remove your appendix as soon as you are diagnosed.",
+    "treatments_list": [],
+    "see_doctor": "Please note that terrible abdominal pain requires immediate medical attention."
+  },
+  "asthma": {
+    "description": "Asthma is a condition in which your airways narrow and swell and may produce extra mucus. This can make breathing difficult and trigger coughing, a whistling sound (wheezing) when you breathe out and shortness of breath.",
+    "treatments": "Asthma can't be cured, but its symptoms can be controlled. Because asthma often changes over time, it's important that you work with your doctor to track your signs and symptoms and adjust your treatment as needed.",
+    "treatments_list": [],
+    "see_doctor": "If you have frequent coughing or wheezing that lasts more than a few days or any other signs or symptoms of asthma, see your doctor."
+  },
+    "cholecystitis": {
+    "description": "Cholecystitis is inflammation of the gallbladder. The gallbladder is a small, pear-shaped organ on the right side of the belly (abdomen), beneath the liver. The gallbladder holds a digestive fluid (bile) that's released into the small intestine.",
+    "treatments": "Surgery is the most common treatment. Surgery to remove the gallbladder is called cholecystectomy.",
+    "treatments_list": [],
+      "see_doctor": "If your abdominal pain is so severe that you can't sit still or get comfortable, have someone drive you to the emergency room."
+  },
+    "common cold": {
+    "description": "The common cold is an illness affecting your nose and throat. Most often, it's harmless, but it might not feel that way. Germs called viruses cause a common cold.",
+    "treatments": "Most colds go away in a few days. Some things you can do to take care of yourself with a cold include:",
+    "treatments_list": ["Get plenty of rest and drink fluids.", "Over-the-counter (OTC) cold and cough medicines may help ease symptoms in adults and older children. They do not make your cold go away faster, but can help you feel better. These OTC medicines are not recommended for children under age 4.", "Many alternative treatments have been tried for colds, such as vitamin C, zinc supplements, and echinacea. Talk to your health care provider before trying any herbs or supplements."],
+      "see_doctor": " Contact your doctor if:\n\nYou have problems breathing.\nYour symptoms get worse or do not improve after 7 to 10 days."
+  },
+    "conjuctivitis": {
+    "description": "Conjuctivitis is an inflammation of the transparent membrane that lines the eyelid and eyeball. This membrane is called the conjunctiva. When small blood vessels in the conjunctiva become swollen and irritated, they're more visible. This is what causes the whites of the eyes to appear reddish or pink. Conjunctivitis is also called pink eye.",
+    "treatments": "Treatment of conjunctivitis depends on the cause.\n\nAllergic conjunctivitis may improve when allergies are treated. It may go away on its own when you avoid your allergy triggers. Cool compresses may help soothe allergic conjunctivitis. Eye drops that contain antihistamines for the eye or drops containing steroids, may be necessary in more severe cases.\n\nAntibiotic medicines work well to treat conjunctivitis caused by bacteria. These are most often given in the form of eye drops. Viral conjunctivitis will go away on its own without antibiotics. Mild steroid eye drops may help ease discomfort.",
+    "treatments_list": [],
+      "see_doctor": "There are serious eye conditions that can cause eye redness. These conditions may cause eye pain, a feeling that something is stuck in your eye, blurred vision and light sensitivity. If you experience these symptoms, seek urgent care."
+  },
+  "cystitis": {
+    "description": "Cystitis is the medical term for inflammation of the bladder. Most of the time, cystitis happens when there's an infection caused by bacteria. This is called a urinary tract infection (UTI). Having a bladder infection can be painful and annoying. It can become a serious health problem if the infection spreads to your kidneys.",
+    "treatments": "The usual treatment for cystitis caused by bacteria is to take antibiotic medication. Treatment for other types of cystitis depends on the cause. Over-the-counter products that increase acid in the urine, such as ascorbic acid or cranberry juice, may be recommended. These medicines lower the concentration of bacteria in the urine.",
+    "treatments_list": [],
+      "see_doctor": "Get medical help right away if you have signs and symptoms common to a kidney infection. These include:\n\nBack or side pain\nFever and chills\nNausea and vomiting"
+  },
+    "drug reaction": {
+    "description": "A drug allergy is the reaction of the immune system to a medicine. Any medicine — nonprescription, prescription or herbal — can provoke a drug allergy. However, a drug allergy is more likely with certain medicines.",
+    "treatments": "The goal of treatment is to relieve symptoms and prevent a severe reaction. Treatment may include:",
+    "treatments_list": ["Antihistamines to relieve mild symptoms such as rash, hives, and itching", "Bronchodilators such as albuterol to reduce asthma-like symptoms (moderate wheezing or cough)", "Corticosteroids applied to the skin, given by mouth, or given through a vein (intravenously)", "Epinephrine by injection to treat anaphylaxis"],
+      "see_doctor": "Go to the emergency room or call the local emergency number (such as 112) if you have difficulty breathing or develop other symptoms of severe asthma or anaphylaxis. These are emergency conditions."
+  },
+  "gastritis": {
+    "description": "Gastritis occurs when the lining of the stomach becomes inflamed or swollen. Gastritis may last for only a short time (acute gastritis) or it may linger for months to years (chronic gastritis).",
+    "treatments": "Treatment depends on what is causing the problem. Some of the causes will go away over time. You may need to stop taking aspirin, ibuprofen, naproxen, or other medicines that may be causing gastritis. Always talk to your health care provider before stopping any medicine.",
+    "treatments_list": [],
+      "see_doctor": "Contact your provider if you develop:\n\nPain in the upper part of the belly or abdomen that does not go away\nBlack or tarry stools\nVomiting blood or coffee-ground-like material"
+  },
+    "heart attack": {
+    "description": "Most heart attacks are caused by a blood clot that blocks one of the coronary arteries. The coronary arteries bring blood and oxygen to the heart. If the blood flow is blocked, the heart is starved of oxygen and heart cells die.\n\nThe medical term for this is myocardial infarction.",
+    "treatments": "Prompt treatment is needed for a heart attack to prevent death. Call your emergency medical help if you think you might be having a heart attack.",
+    "treatments_list": [],
+      "see_doctor": "A heart attack is a medical emergency. If you have symptoms of a heart attack, call your local emergency number right away.\n\nDO NOT try to drive yourself to the hospital.\nDO NOT WAIT. You are at greatest risk for sudden death in the early hours of a heart attack."
+  },
+  "hypothyroidism": {
+    "description": "Hypothyroidism is a condition in which the thyroid gland does not make enough thyroid hormone. This condition is often called underactive thyroid.",
+    "treatments": "Treatment is aimed at replacing the thyroid hormone you are lacking. Levothyroxine is the most commonly used medicine.",
+    "treatments_list": [],
+      "see_doctor": "See your health care provider if you're feeling tired for no reason or if you have other symptoms of hypothyroidism."
+  },
+  "irritable bowel syndrome": {
+    "description": "Irritable bowel syndrome (IBS) is a common disorder that affects the stomach and intestines, also called the gastrointestinal tract. IBS is a chronic condition that you'll need to manage long term.",
+    "treatments": "The goal of treatment is to relieve symptoms. In some cases of IBS, lifestyle changes can help. For example, regular exercise and improved sleep habits may reduce anxiety and help relieve bowel symptoms. Dietary changes can be helpful. However, no specific diet can be recommended for IBS because the condition differs from one person to another. The following changes may help:",
+    "treatments_list": ["Avoiding foods and drinks that stimulate the intestines (such as caffeine-containing drinks, tea, or colas)", "Eating smaller meals", "Increasing fiber in the diet (this may improve constipation or diarrhea, but make bloating worse)"],
+      "see_doctor": "See your health care provider if you have a persistent change in bowel habits or other symptoms of IBS as they may indicate a more serious condition. More-serious symptoms include:\n\nWeight loss\nDiarrhea at night\nRectal bleeding\nIron deficiency anemia\nUnexplained vomiting\nPain that isn't relieved by passing gas or a bowel movement"
+  },
+  "panic disorder": {
+    "description": "Panic disorder is a type of anxiety disorder in which you have repeated attacks of intense fear that something bad will happen.",
+    "treatments": "The goal of treatment is to help you function well during everyday life. Using both medicines and talk therapy works best (cognitive-behavioral therapy, or CBT). The following may also help reduce the number or severity of panic attacks:",
+    "treatments_list": ["Do not drink alcohol.", "Eat at regular times.", "Get plenty of exercise.", "Get enough sleep.", "Reduce or avoid caffeine, certain cold medicines, and stimulants."],
+      "see_doctor": "Contact your provider for an appointment if panic attacks are interfering with your work, relationships, or self-esteem. Panic attack symptoms can also resemble symptoms of other serious health problems, such as a heart attack, so it's important to get evaluated by your primary care provider if you aren't sure what's causing your symptoms."
+  },
+    "psoriasis": {
+    "description": "Psoriasis is a skin disease that causes a rash with itchy, scaly patches, most commonly on the knees, elbows, trunk and scalp.",
+    "treatments": "Psoriasis is a common, long-term (chronic) disease with no cure. The goal of treatment is to control your symptoms and prevent infection. Three treatment options are available:",
+    "treatments_list": ["Skin lotions, ointments, creams, and shampoos", "Pills or injections that affect the body's immune response, not just the skin", "Phototherapy, which uses ultraviolet light to treat psoriasis"],
+      "see_doctor": "Contact your provider if you have symptoms of psoriasis or if your skin irritation continues despite treatment. Go to the emergency room or call the local emergency number if you have a severe outbreak that covers all or most of your body."
+  },
+  "strep throat": {
+    "description": "Strep throat is a disease that causes a sore throat (pharyngitis). It is an infection with a bacteria called group A streptococcus.",
+    "treatments": "The following tips may help your sore throat feel better:",
+    "treatments_list": ["Drink warm liquids, such as lemon tea or tea with honey.", "Gargle several times a day with warm salt water", "Drink cold liquids or suck on fruit-flavored ice pops.", "A cool-mist vaporizer or humidifier can moisten and soothe a dry and painful throat."],
+      "see_doctor": "Contact your provider if you or your child develops the symptoms of strep throat. Also, contact your provider if symptoms do not get better within 24 to 48 hours of starting treatment."
+  },
+    "urinary tract infection": {
+    "description": "A urinary tract infection (UTI) is an infection in any part of the urinary system. The urinary system includes the kidneys, ureters, bladder and urethra. Most infections involve the lower urinary tract — the bladder and the urethra.",
+    "treatments": "Your health care provider must first decide if the infection is just in the bladder, or if it has spread to the kidneys and how severe it is. Health care providers often treat urinary tract infections with antibiotics. These steps may help lower the risk of UTIs:",
+    "treatments_list": ["Drink plenty of liquids, especially water", "Try cranberry juice", "Wipe from front to back.", "Empty your bladder soon after having intercourse", "Avoid potentially irritating feminine products"],
+      "see_doctor": "Contact your provider if you have symptoms of a UTI. Contact your provider right away if you have signs of a possible kidney infection, such as:\nBack or side pain\nChills\nFever\nVomiting"
+  },
+  "autism": {
+    "description": "Autism spectrum disorder is a condition related to brain development that impacts how a person perceives and socializes with others, causing problems in social interaction and communication. The disorder also includes limited and repetitive patterns of behavior. The term \"spectrum\" in autism spectrum disorder refers to the wide range of symptoms and severity.",
+    "treatments": "While there is no cure for autism spectrum disorder, intensive, early treatment can make a big difference in the lives of many children. Treatment plans may combine techniques, including:",
+    "treatments_list": ["Applied behavior analysis (ABA)", "Medicines, if needed", "Occupational therapy", "Physical therapy", "Speech-language therapy"],
+      "see_doctor": "Parents usually suspect that there is a developmental problem long before a diagnosis is made. Call your provider if you think that your child is not developing normally."
+  },
+  "flu": {
+    "description": "The flu (influenza) is a viral respiratory illness that causes fever, chills, runny nose, body aches, and cough. It spreads easily from person to person. The flu can cause moderate to severe symptoms. Most people recover fully. Children, older adults, and people with certain health conditions are at risk for severe illness and even death.",
+    "treatments": "Acetaminophen (Tylenol) and ibuprofen (Advil, Motrin) help lower fever and relieve aches. Here are other ways to relieve symptoms:",
+    "treatments_list": ["Over-the-counter cold medicines may make some of your symptoms better", "Cough drops or throat sprays will help with your sore throat", "Get plenty of rest", "Drink plenty of liquids", "Do not smoke or drink alcohol"],
+      "see_doctor": "Contact your provider right away if you or your child have:\n\nDifficulty breathing\nHigh fever\nShortness of breath"
+  },
+  "pneumonia": {
+    "description": "Pneumonia is a lung infection. It can be caused by many different germs, including bacteria, viruses, and fungi.",
+    "treatments": "Antibiotics or antifungal medicines may be used, depending on the type of germ that is causing the infection. Antibiotics are not helpful for viral infections, but newer medicines may treat some viral infections for example COVID-19. You may need to stay in the hospital during the early stages of the illness. Oxygen and treatments to remove fluid and mucus from the respiratory system are often needed.",
+    "treatments_list": [],
+      "see_doctor": "See your doctor if you have difficulty breathing, chest pain, persistent fever of 102 F (39 C) or higher, or persistent cough, especially if you're coughing up pus.\n\nIt's especially important that people in these high-risk groups see a doctor:\n\nAdults older than age 65\nChildren younger than age 2 with signs and symptoms\nPeople with an underlying health condition or weakened immune system\nPeople receiving chemotherapy or taking medication that suppresses the immune system"
+  },
+  "scoliosis": {
+    "description": "Scoliosis is an abnormal curving of the spine. Your spine is your backbone. It runs straight down your back. Everyone's spine naturally curves a bit. But people with scoliosis have a spine that curves too much. The spine might look like the letter C or S.",
+    "treatments": "Back braces work best in people over age 10 with continued growing potential. Braces do not work for those with congenital or neuromuscular scoliosis. You may need surgery if the spine curve is severe or getting worse very quickly. Scoliosis treatment may also include:",
+    "treatments_list": ["Emotional support: Some children, especially teens, may be self-conscious when using a back brace.", "Physical therapy and other specialists to help explain the treatments and make sure the brace fits correctly."],
+      "see_doctor": "Contact your provider if you suspect your child may have scoliosis.\n\n"
+  },
+  "ulcerative colitis": {
+    "description": "Ulcerative colitis is a condition in which the lining of the large intestine (colon) and rectum become inflamed. It is a form of inflammatory bowel disease (IBD). The disease begins in the rectal area. It may stay in the rectum or spread to higher areas of the large intestine. However, the disease does not skip areas. It may involve the entire large intestine over time.",
+    "treatments": "While it has no known cure, there are several new treatments that can greatly reduce signs and symptoms of the disease and bring about long-term remission, such as:",
+    "treatments_list": ["Eating small amounts of food", "Avoiding high fibre foods", "Avoiding fatty, greasy or fried foods and sauces", "Stress management", "Medicine for treating very bad diarrhea", "Surgery to remove the treat of colon cancer. Most of the time, the entire colon, including the rectum, is removed."],
+    "see_doctor": "See your health care provider if you experience a persistent change in your bowel habits or if you have signs and symptoms such as:\n\nAbdominal pain\nBlood in your stool\nOngoing diarrhea that doesn't respond to nonprescription medications\nDiarrhea that awakens you from sleep\nAn unexplained fever lasting more than a day or two\n"
+  },
+  "uterine fibroids": {
+    "description": "Uterine fibroids are tumors that grow in a woman's womb (uterus). These growths are typically not cancerous (benign), and do not become cancerous.",
+    "treatments": "Treatment for the symptoms of uterine fibroids may include:",
+    "treatments_list": ["Intrauterine devices (IUDs) that release hormones to help reduce heavy bleeding and pain", "Iron supplements to prevent or treat anemia due to heavy periods", "Pain relievers, such as ibuprofen or naproxen, for cramps or pain"],
+    "see_doctor": "Contact your provider if you have:\n\nHeavy bleeding, increased cramping, or bleeding between periods\nFullness or heaviness in your lower belly area"
+  },
+  "idiopathic painful menstruation": {
+    "description": "Painful menstrual periods are periods in which a woman has crampy lower abdominal pain, which can be sharp or aching and come and go. Back pain and/or leg pain may also be present. Some pain during your period is normal, but a large amount of pain is not. The medical term for painful menstrual periods is dysmenorrhea.",
+    "treatments": "The following steps may help you to avoid prescription medicines:",
+    "treatments_list": ["Apply a heating pad to your lower belly area, below your belly button" , "Do light circular massage with your fingertips around your lower belly area", "Drink warm beverages", "Eat light, but frequent meals", "Practice relaxation techniques, such as meditation or yoga", "Try over-the-counter anti-inflammatory medicine, such as ibuprofen or naproxen. Start taking it the day before your period is expected to begin and continue taking it regularly for the first few days of your period"],
+    "see_doctor": "Call your provider right away if you have:\n\nIncreased or foul-smelling vaginal discharge\nFever and pelvic pain\nSudden or severe pain, especially if your period is more than 1 week late and you have been sexually active."
+  },
+  "eczema": {
+    "description": "Atopic dermatitis (eczema) is a condition that causes dry, itchy and inflamed skin. It's common in young children but can occur at any age. Atopic dermatitis is long lasting (chronic) and tends to flare sometimes. It can be irritating but it's not contagious.",
+    "treatments": "Moisturizing regularly and following other skin care habits can relieve itching and prevent new outbreaks (flares). Treatment may also include medicated ointments or creams.",
+    "treatments_list": [],
+    "see_doctor": "Seek immediate medical attention if you or your child has a fever and the rash looks infected."
+  },
+  "allergy": {
+    "description": "An allergy is an immune response or reaction to substances that are usually not harmful.",
+    "treatments": "Severe allergic reactions (anaphylaxis) need to be treated with a medicine called epinephrine. It can be life-saving when given right away. If you use epinephrine, call the local emergency number and go straight to the hospital.\n\nThe best way to reduce symptoms is to avoid what causes your allergies. This is especially important for food and drug allergies.",
+    "treatments_list": [],
+    "see_doctor": "Contact your provider for an appointment if:\n\nSevere symptoms of allergy occur\nTreatment for allergies no longer works"
+  },
+  "chronic glaucoma": {
+    "description": "Glaucoma is a group of eye conditions that can damage the optic nerve. This nerve sends the images you see to your brain.\n\nMost often, optic nerve damage is caused by increased pressure in the eye. This is called intraocular pressure.",
+    "treatments": "Treatment depends on the type of glaucoma that you have but the goal is to reduce the eye pressure:",
+    "treatments_list": ["If you have open-angle glaucoma, you will probably be given eye drops", "An acute angle-closure attack is a medical emergency. You can become blind in a few days if you are not treated.", "Congenital glaucoma is almost always treated with surgery."],
+    "see_doctor": "If you experience symptoms that come on suddenly, you may have acute angle-closure glaucoma. Symptoms include severe headache and severe eye pain. You need treatment as soon as possible. Go to an emergency room or call an eye doctor's (ophthalmologist's) office immediately."
+  },
+  "diabetes": {
+    "description": "Diabetes is a long-term (chronic) disease in which the body cannot regulate the amount of sugar in the blood. Chronic diabetes conditions include type 1 diabetes and type 2 diabetes.",
+    "treatments": "Treating either type 1 diabetes or type 2 diabetes involves nutrition, activity and medicines to control blood sugar level:",
+    "treatments_list": ["There is no cure for type 1 diabetes (except for a pancreas or cell transplant)", "Type 2 diabetes can sometimes be reversed with lifestyle changes, especially losing weight with exercise and by eating different foods. "],
+    "see_doctor": "If you notice any possible diabetes symptoms, contact your health care provider. The earlier the condition is diagnosed, the sooner treatment can begin."
+  },
+  "epilepsy": {
+    "description": "Epilepsy is a brain disorder in which a person has repeated seizures over time. Seizures are episodes of uncontrolled and abnormal electrical activity of brain cells that may cause changes in attention or behavior such as bodily movements.",
+    "treatments": "Treatment for epilepsy includes taking medicines, lifestyle changes, and sometimes surgery. If epilepsy is due to a tumor, abnormal blood vessels, or bleeding in the brain, surgery to treat these disorders may make the seizures stop.",
+    "treatments_list": [],
+    "see_doctor": "Seek immediate medical help if any of the following occurs with a seizure:\n\nThe seizure lasts more than five minutes.\nBreathing or consciousness doesn't return after the seizure stops.\nA second seizure follows immediately.\nYou have a high fever.\nYou're pregnant.\nYou have diabetes.\nYou've injured yourself during the seizure.\nYou continue to have seizures even though you've been taking anti-seizure medicine."
+  },
+  "myopia": {
+    "description": "Nearsightedness (myopia) is a common vision condition in which near objects appear clear, but objects farther away look blurry. It occurs when the shape of the eye — or the shape of certain parts of the eye — causes light rays to bend (refract) inaccurately. ",
+    "treatments": "You can compensate for the blurry vision with eyeglasses, contact lenses or refractive surgery.",
+    "treatments_list": [],
+    "see_doctor": "Seek emergency medical care if you experience any of the following:\n\nSudden appearance of many floaters — tiny specks or lines that seem to drift through your field of vision\nFlashes of light in one or both eyes\nA curtain-like gray shadow covering all or part of your field of vision\nA shadow in your outer or side vision (peripheral vision)\nThese are warnings signs of the retina becoming detached from the back of the eye. This condition is a medical emergency requiring prompt treatment."
+  },
+  "sepsis": {
+    "description": "Sepsis is an illness in which the body has a severe, inflammatory response to bacteria or other germs.",
+    "treatments": "A person with sepsis will be admitted to a hospital, usually in the intensive care unit (ICU). Antibiotics are usually given through a vein (intravenously). Other medical treatments include:",
+    "treatments_list": ["Oxygen to help with breathing", "Fluids given through a vein", "Medicines that increase blood pressure"],
+    "see_doctor": "Any infection could lead to sepsis. Go to a health care provider if you have symptoms of sepsis or an infection or wound that isn't getting better.\n\nSymptoms such as confusion or fast breathing need emergency care."
+  },
+  "indigestion": {
+    "description": "Indigestion (dyspepsia) is a mild discomfort in the upper belly or abdomen. It often occurs during or right after eating. It may feel like:\n\nHeat, burning, or pain in the area between the navel and the lower part of the breastbone\nUnpleasant fullness that starts soon after a meal begins or when the meal is over.",
+    "treatments": "Changing the way you eat may help your symptoms. Steps you can take include:",
+    "treatments_list": ["Allow enough time for meals", "Avoid excitement or exercise right after a meal", "Chew food carefully and completely", "Relax and get rest if indigestion is caused by stress"],
+    "see_doctor": "Get medical help right away if your symptoms include jaw pain, chest pain, back pain, heavy sweating, anxiety, or a feeling of impending doom. These are possible heart attack symptoms."
+  },
+  "primary insomnia": {
+    "description": "Insomnia is trouble falling asleep, staying asleep through the night, or waking up too early in the morning.",
+    "treatments": "Some people may need medicines to help with sleep for a short period of time. But in the long run, making changes in your lifestyle and sleep habits is the best treatment for problems with falling and staying asleep, such as:",
+    "treatments_list": ["Most over-the-counter (OTC) sleeping pills contain antihistamines. These medicines are commonly used to treat allergies. Your body quickly becomes used to them","Sleep medicines called hypnotics can be prescribed by your provider to help reduce the time it takes you to fall asleep. Most of these can become habit-forming", "Medicines used to treat anxiety or depression can also help with sleep", "Different methods of talk therapy, such as cognitive behavioral therapy for insomnia (CBT-I), may help you gain control over anxiety or depression"],
+    "see_doctor": "You should contact your provider if insomnia has become a problem."
+  },
+  "fungal infection of the skin": {
+    "description": "A fungal infection, also called mycosis, is a skin disease caused by a fungus",
+    "treatments": "Treatment for skin fungus includes:",
+    "treatments_list": ["Antifungal creams, many of which are available over-the-counter", "Stronger prescription medications, which may work faster", "Oral medicines, if the fungal infection is severe"],
+    "see_doctor": "See your healthcare provider if you notice any rashes or changes in your skin."
+  },
+  "lyme disease": {
+    "description": "Lyme disease is a bacterial infection that is spread through the bite of one of several types of ticks.",
+    "treatments": "People bitten by a tick should be watched closely for at least 30 days to see if a rash or symptoms develop.To prevent Lyme disease, a single dose of the antibiotic doxycycline may be given to someone soon after being bitten by a tick.",
+    "treatments_list": [],
+    "see_doctor": "Contact your healtcare provider if you have:\n\nA large, red, expanding rash that may look like a bull's eye.\nHad a tick bite and develop weakness, numbness, tingling, or heart problems.\nSymptoms of Lyme disease, especially if you may have been exposed to ticks."
+  }
+}
