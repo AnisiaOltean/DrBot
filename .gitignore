@@ -1,0 +1,4 @@
+models/
+output_large/
+packages/
+.env
